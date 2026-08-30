@@ -1,0 +1,34 @@
+{
+  "title": "大埔县湖寮派出所 · 新警个人知识库",
+  "subtitle": "入职学习计划 · 辖区可视化地图 · 风俗民情 · 常用地理位置",
+  "station": {
+    "name": "湖寮派出所",
+    "unit": "大埔县公安局",
+    "address": "梅州市大埔县湖寮镇西环路411号",
+    "phone": "0753-5522225",
+    "postcode": "514299",
+    "town": "湖寮镇（大埔县城所在地）"
+  },
+  "town": {
+    "name": "湖寮镇",
+    "county": "大埔县",
+    "city": "梅州市",
+    "center": [24.358, 116.688],
+    "note": "大埔县城所在地，梅潭河穿城而过"
+  },
+  "mapNote": "辖区地图底图道路/水系/POI 数据来自 OpenStreetMap（ODbL 许可，2026年8月采集），片区多边形为按社区与地理分布绘制的示意图，实际警务区划以所内正式安排为准。",
+  "disclaimer": "本知识库由公开网络资料整理，仅用于新警入职学习与熟悉辖区参考；门牌、电话、人口、区划等信息请以现场与所内正式资料为准。",
+  "generated": "2026-08-26",
+  "sources": [
+    "湖寮镇-百度百科 https://baike.baidu.com/item/湖寮镇/10642594",
+    "湖寮鎮-维基百科 https://zh.wikipedia.org/zh-mo/湖寮鎮",
+    "大埔县湖寮镇_区划地名网 https://www.xzqh.org/html/show/gd/33131.html",
+    "大埔县湖寮镇各村社区联系方式 http://tcmap.com.cn/list/4/dapuxianhuzhengecunshequlianxifangshi.html",
+    "大埔客家民俗文化简介-大埔县人民政府 https://www.dabu.gov.cn/zjdp/whts/ms/content/post_2272995.html",
+    "大埔元宵花样民俗祈福新年-梅州日报 https://mzrb.meizhou.cn/html/2025-02/20/content_376647.htm",
+    "湖寮派出所（0753-5522225，西环路411号）https://www.chahaoba.com/0753-5522225",
+    "大埔县湖寮派出所-梅州本地宝 http://m.mz.bendibao.com/wangdian/dian/4986032.shtm",
+    "OpenStreetMap（道路/水系/POI 几何数据，ODbL）https://www.openstreetmap.org",
+    "大埔县人民政府门户网站 https://www.dabu.gov.cn"
+  ]
+}
