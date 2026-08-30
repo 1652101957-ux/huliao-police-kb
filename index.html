@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="description" content="大埔县湖寮派出所新警个人知识库：30日学习计划、辖区可视化地图、风俗民情、常用地点与应急电话">
+<title>大埔县湖寮派出所 · 新警个人知识库</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="app">
+  <header class="topbar">
+    <div class="topbar-title">
+      <span class="logo">📚</span>
+      <div class="title-text">
+        <h1 id="kb-title">湖寮派出所 · 新警个人知识库</h1>
+        <div class="sub" id="kb-sub">大埔县湖寮镇（县城）</div>
+      </div>
+    </div>
+    <nav class="tabs" id="tabs">
+      <button class="tab on" data-view="today">今日学习</button>
+      <button class="tab" data-view="plan">30日计划</button>
+      <button class="tab" data-view="map">辖区地图</button>
+      <button class="tab" data-view="beats">片区档案</button>
+      <button class="tab" data-view="places">常用地点</button>
+      <button class="tab" data-view="customs">风俗民情</button>
+      <button class="tab" data-view="tel">应急电话</button>
+    </nav>
+  </header>
+
+  <main class="content">
+    <section class="view" id="view-today"></section>
+    <section class="view hidden" id="view-plan"></section>
+    <section class="view hidden" id="view-map"></section>
+    <section class="view hidden" id="view-beats"></section>
+    <section class="view hidden" id="view-places"></section>
+    <section class="view hidden" id="view-customs"></section>
+    <section class="view hidden" id="view-tel"></section>
+  </main>
+
+  <footer class="foot" id="kb-foot">数据由公开网络资料与 OpenStreetMap（ODbL）整理，仅供新警入职学习参考；请以所内正式资料为准。</footer>
+</div>
+
+<script src="assets/app.js"></script>
+<script src="assets/map.js"></script>
+</body>
+</html>
