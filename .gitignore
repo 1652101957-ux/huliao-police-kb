@@ -1,0 +1,2 @@
+.gitignore content: progress.json
+*.log
