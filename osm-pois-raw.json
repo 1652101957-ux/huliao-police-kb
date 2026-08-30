@@ -1,0 +1,8635 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-26T15:53:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 244077916,
+  "lat": 24.3505527,
+  "lon": 116.6902216,
+  "tags": {
+    "capital": "6",
+    "gns:ADM1": "30",
+    "gns:DSG": "ADM3",
+    "gns:UFI": "-1901214",
+    "gns:UNI": "6722132",
+    "name": "大埔县",
+    "name:de": "Dabu",
+    "name:en": "Dabu",
+    "name:fa": "شهرستان دابو",
+    "name:fr": "Dabu",
+    "name:hak": "Thai-phû-yen",
+    "name:id": "Dabu",
+    "name:it": "Dabu",
+    "name:ja": "大埔県",
+    "name:ko": "다부현",
+    "name:mwl": "Dabu",
+    "name:nan": "Tāi-po͘-koān",
+    "name:no": "Dabu",
+    "name:ru": "Дабу",
+    "name:sv": "Dabu",
+    "name:vi": "Đại Bộ, Mai Châu",
+    "name:yue": "大埔縣",
+    "name:zh": "大埔县",
+    "name:zh-Hans": "大埔县",
+    "name:zh-Hant": "大埔縣",
+    "name:zh-Latn-pinyin": "Dàbù Xiàn",
+    "official_name": "大埔县",
+    "official_name:en": "Dabu County",
+    "official_name:zh": "大埔县",
+    "place": "city",
+    "place:CN": "county",
+    "population": "116000",
+    "population:date": "2022",
+    "population:note": "人口为城区人口",
+    "short_name": "大埔",
+    "wikidata": "Q1156607",
+    "wikipedia": "zh:大埔县"
+  }
+},
+{
+  "type": "node",
+  "id": 2065797943,
+  "lat": 24.3543300,
+  "lon": 116.6967300,
+  "tags": {
+    "name": "上新村",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2065798844,
+  "lat": 24.3665023,
+  "lon": 116.6853695,
+  "tags": {
+    "name": "下村",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2065798939,
+  "lat": 24.3677200,
+  "lon": 116.6864300,
+  "tags": {
+    "name": "下坜村",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2065800233,
+  "lat": 24.3642400,
+  "lon": 116.6907300,
+  "tags": {
+    "name": "中村",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2065804143,
+  "lat": 24.3632600,
+  "lon": 116.6894400,
+  "tags": {
+    "name": "古城村",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2065806661,
+  "lat": 24.3421000,
+  "lon": 116.6748500,
+  "tags": {
+    "name": "大安村",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2065815424,
+  "lat": 24.3507200,
+  "lon": 116.6811200,
+  "tags": {
+    "name": "山子下村",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2065817653,
+  "lat": 24.3754400,
+  "lon": 116.6987600,
+  "tags": {
+    "name": "岭下村",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2065824515,
+  "lat": 24.3659600,
+  "lon": 116.6981100,
+  "tags": {
+    "name": "新寨村",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2065828661,
+  "lat": 24.3580600,
+  "lon": 116.6962600,
+  "tags": {
+    "name": "新村",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2065893189,
+  "lat": 24.3501300,
+  "lon": 116.7009500,
+  "tags": {
+    "name": "黎家坪村",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2065894262,
+  "lat": 24.3628700,
+  "lon": 116.6845900,
+  "tags": {
+    "name": "龙岗村",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 2596414704,
+  "lat": 24.3437351,
+  "lon": 116.7130222,
+  "tags": {
+    "name": "下坳",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8300184843,
+  "lat": 24.3583610,
+  "lon": 116.6881269,
+  "tags": {
+    "capital": "8",
+    "name": "湖寮镇",
+    "name:en": "Huliao",
+    "name:zh": "湖寮镇",
+    "name:zh-Hans": "湖寮镇",
+    "name:zh-Hant": "湖寮鎮",
+    "name:zh-Latn-pinyin": "Húliáo Zhèn",
+    "official_name": "湖寮镇",
+    "place": "town",
+    "place:CN": "town",
+    "short_name": "湖寮",
+    "source:name": "GNS",
+    "wikidata": "Q14408063",
+    "wikipedia": "zh:湖寮镇"
+  }
+},
+{
+  "type": "node",
+  "id": 9863338040,
+  "lat": 24.3490240,
+  "lon": 116.6866506,
+  "tags": {
+    "artwork_type": "statue",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 9864411707,
+  "lat": 24.3663573,
+  "lon": 116.7023650,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "肯德基",
+    "brand:en": "KFC",
+    "brand:wikidata": "Q524757",
+    "brand:zh": "肯德基",
+    "cuisine": "chicken",
+    "name": "肯德基",
+    "name:en": "KFC",
+    "name:zh": "肯德基",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9950622314,
+  "lat": 24.3491164,
+  "lon": 116.6781458,
+  "tags": {
+    "leisure": "swimming_pool"
+  }
+},
+{
+  "type": "node",
+  "id": 9950701637,
+  "lat": 24.3510601,
+  "lon": 116.6758674,
+  "tags": {
+    "place": "square"
+  }
+},
+{
+  "type": "node",
+  "id": 9950701647,
+  "lat": 24.3550842,
+  "lon": 116.6799275,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q55719551",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 9950701665,
+  "lat": 24.3675731,
+  "lon": 116.7015212,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "麦当劳",
+    "brand:en": "McDonald's",
+    "brand:wikidata": "Q38076",
+    "brand:zh": "麦当劳",
+    "brand:zh-Hans": "麦当劳",
+    "cuisine": "burger",
+    "name": "麦当劳",
+    "name:en": "McDonald's",
+    "name:zh": "麦当劳",
+    "name:zh-Hans": "麦当劳",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9950701684,
+  "lat": 24.3495698,
+  "lon": 116.6987180,
+  "tags": {
+    "amenity": "school",
+    "name": "大埔县技工学校"
+  }
+},
+{
+  "type": "node",
+  "id": 10000860191,
+  "lat": 24.3657157,
+  "lon": 116.6828679,
+  "tags": {
+    "amenity": "atm",
+    "brand": "中国建设银行",
+    "brand:en": "China Construction Bank",
+    "brand:wikidata": "Q26299",
+    "brand:zh": "中国建设银行",
+    "cash_in": "yes",
+    "name": "中国建设银行",
+    "name:en": "China Construction Bank",
+    "name:zh": "中国建设银行",
+    "operator": "中国建设银行",
+    "operator:wikidata": "Q26299"
+  }
+},
+{
+  "type": "node",
+  "id": 10000860192,
+  "lat": 24.3666757,
+  "lon": 116.6829114,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "大埔县慢性病防治院"
+  }
+},
+{
+  "type": "node",
+  "id": 10025321598,
+  "lat": 24.3665754,
+  "lon": 116.7022266,
+  "tags": {
+    "brand": "百果园",
+    "brand:en": "Pagoda",
+    "brand:wikidata": "Q111585678",
+    "brand:zh": "百果园",
+    "name": "百果园",
+    "name:en": "Pagoda",
+    "name:zh": "百果园",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 10025321599,
+  "lat": 24.3673712,
+  "lon": 116.7016365,
+  "tags": {
+    "brand": "苏宁易购",
+    "brand:en": "Suning",
+    "brand:wikidata": "Q17066824",
+    "brand:zh": "苏宁易购",
+    "name": "苏宁易购",
+    "name:en": "Suning",
+    "name:zh": "苏宁易购",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 10025321626,
+  "lat": 24.3569251,
+  "lon": 116.6849547,
+  "tags": {
+    "name": "龙岗窠里中宪第",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 10025321629,
+  "lat": 24.3591685,
+  "lon": 116.6823338,
+  "tags": {
+    "amenity": "bank",
+    "brand": "中国建设银行",
+    "brand:en": "China Construction Bank",
+    "brand:wikidata": "Q26299",
+    "brand:zh": "中国建设银行",
+    "name": "中国建设银行",
+    "name:en": "China Construction Bank",
+    "name:zh": "中国建设银行"
+  }
+},
+{
+  "type": "node",
+  "id": 10025321650,
+  "lat": 24.3492377,
+  "lon": 116.6983822,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q97300244",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 10025321656,
+  "lat": 24.3573178,
+  "lon": 116.7036156,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "node",
+  "id": 10025321680,
+  "lat": 24.3587957,
+  "lon": 116.6959560,
+  "tags": {
+    "name": "嘉福蛋糕",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 10025321681,
+  "lat": 24.3552831,
+  "lon": 116.6961671,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q55719551",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 10040924848,
+  "lat": 24.3593199,
+  "lon": 116.6897190,
+  "tags": {
+    "amenity": "bank",
+    "brand": "中国邮政储蓄银行",
+    "brand:en": "Postal Savings Bank of China",
+    "brand:wikidata": "Q986744",
+    "brand:zh": "中国邮政储蓄银行",
+    "name": "中国邮政储蓄银行",
+    "name:en": "Postal Savings Bank of China",
+    "name:zh": "中国邮政储蓄银行",
+    "opening_hours": "Mo-Sa 09:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10040924850,
+  "lat": 24.3614799,
+  "lon": 116.6880058,
+  "tags": {
+    "amenity": "bank",
+    "brand": "中国邮政储蓄银行",
+    "brand:en": "Postal Savings Bank of China",
+    "brand:wikidata": "Q986744",
+    "brand:zh": "中国邮政储蓄银行",
+    "name": "中国邮政储蓄银行",
+    "name:en": "Postal Savings Bank of China",
+    "name:zh": "中国邮政储蓄银行"
+  }
+},
+{
+  "type": "node",
+  "id": 10040924856,
+  "lat": 24.3577561,
+  "lon": 116.6814305,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q55719551",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 10040924885,
+  "lat": 24.3541194,
+  "lon": 116.6872209,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "大昌市场"
+  }
+},
+{
+  "type": "node",
+  "id": 10040924887,
+  "lat": 24.3562450,
+  "lon": 116.6930692,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 10050164483,
+  "lat": 24.3590638,
+  "lon": 116.6889172,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q55719551",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 10050164484,
+  "lat": 24.3594498,
+  "lon": 116.6900414,
+  "tags": {
+    "name": "阿里山宾馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10050164495,
+  "lat": 24.3546491,
+  "lon": 116.6914500,
+  "tags": {
+    "amenity": "bank",
+    "brand": "中国建设银行",
+    "brand:en": "China Construction Bank",
+    "brand:wikidata": "Q26299",
+    "brand:zh": "中国建设银行",
+    "name": "中国建设银行",
+    "name:en": "China Construction Bank",
+    "name:zh": "中国建设银行",
+    "opening_hours": "Mo-Fr 09:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10050164496,
+  "lat": 24.3538419,
+  "lon": 116.6922551,
+  "tags": {
+    "name": "海棠四季酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 10050164497,
+  "lat": 24.3530092,
+  "lon": 116.6927673,
+  "tags": {
+    "amenity": "bank",
+    "brand": "中国农业银行",
+    "brand:en": "Agricultural Bank of China",
+    "brand:wikidata": "Q26298",
+    "brand:zh": "中国农业银行",
+    "name": "中国农业银行",
+    "name:en": "Agricultural Bank of China",
+    "name:zh": "中国农业银行",
+    "opening_hours": "Mo-Fr 09:00-12:00,14:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10050164498,
+  "lat": 24.3526929,
+  "lon": 116.6927413,
+  "tags": {
+    "amenity": "bank",
+    "brand": "中国工商银行",
+    "brand:en": "Industrial and Commercial Bank of China",
+    "brand:wikidata": "Q26463",
+    "brand:zh": "中国工商银行",
+    "name": "中国工商银行",
+    "name:en": "Industrial and Commercial Bank of China",
+    "name:zh": "中国工商银行"
+  }
+},
+{
+  "type": "node",
+  "id": 10050164499,
+  "lat": 24.3525254,
+  "lon": 116.6913818,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "蜜雪冰城",
+    "brand:en": "MIXUEBINGCHENG",
+    "brand:wikidata": "Q107406476",
+    "brand:zh": "蜜雪冰城",
+    "cuisine": "ice_cream;bubble_tea",
+    "name": "蜜雪冰城",
+    "name:en": "MIXUEBINGCHENG",
+    "name:zh": "蜜雪冰城",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10050164500,
+  "lat": 24.3524932,
+  "lon": 116.6927520,
+  "tags": {
+    "brand": "新华书店",
+    "brand:en": "Xinhua Bookstore",
+    "brand:wikidata": "Q6124193",
+    "brand:zh": "新华书店",
+    "name": "新华书店",
+    "name:en": "Xinhua Bookstore",
+    "name:zh": "新华书店",
+    "opening_hours": "Mo-Su 08:30-21:30",
+    "shop": "books"
+  }
+},
+{
+  "type": "node",
+  "id": 10050164502,
+  "lat": 24.3515793,
+  "lon": 116.6915964,
+  "tags": {
+    "amenity": "bank",
+    "brand": "中国邮政储蓄银行",
+    "brand:en": "Postal Savings Bank of China",
+    "brand:wikidata": "Q986744",
+    "brand:zh": "中国邮政储蓄银行",
+    "name": "中国邮政储蓄银行",
+    "name:en": "Postal Savings Bank of China",
+    "name:zh": "中国邮政储蓄银行",
+    "opening_hours": "Mo-Fr 09:00-12:00,14:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10050164503,
+  "lat": 24.3517586,
+  "lon": 116.6910909,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q55719551",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 10050164505,
+  "lat": 24.3576473,
+  "lon": 116.6822776,
+  "tags": {
+    "amenity": "kindergarten",
+    "name": "万晖幼儿园"
+  }
+},
+{
+  "type": "node",
+  "id": 10121297364,
+  "lat": 24.3556819,
+  "lon": 116.6799694,
+  "tags": {
+    "amenity": "bank",
+    "brand": "中国银行",
+    "brand:en": "Bank of China",
+    "brand:wikidata": "Q790068",
+    "brand:zh": "中国银行",
+    "name": "中国银行",
+    "name:en": "Bank of China",
+    "name:zh": "中国银行"
+  }
+},
+{
+  "type": "node",
+  "id": 10121530581,
+  "lat": 24.3287300,
+  "lon": 116.7247846,
+  "tags": {
+    "name": "塔子里",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10139349956,
+  "lat": 24.3560771,
+  "lon": 116.6923673,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q55719551",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 10139350126,
+  "lat": 24.3538099,
+  "lon": 116.6923074,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q55719551",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 10139350139,
+  "lat": 24.3524065,
+  "lon": 116.6904692,
+  "tags": {
+    "artwork_type": "sculpture",
+    "material": "metal",
+    "name": "大埔小行星",
+    "name:en": "3611 Dabu minor planets",
+    "tourism": "artwork",
+    "website": "https://en.wikipedia.org/wiki/List_of_minor_planets:_3001%E2%80%934000#611"
+  }
+},
+{
+  "type": "node",
+  "id": 10140237824,
+  "lat": 24.3637039,
+  "lon": 116.6936998,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林",
+    "opening_hours": "Mo-Su 08:00-21:30"
+  }
+},
+{
+  "type": "node",
+  "id": 10140237825,
+  "lat": 24.3641208,
+  "lon": 116.6933393,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q97300244",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 10140237826,
+  "lat": 24.3610248,
+  "lon": 116.6934511,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林",
+    "opening_hours": "Mo-Su 08:00-21:30"
+  }
+},
+{
+  "type": "node",
+  "id": 10140237895,
+  "lat": 24.3514630,
+  "lon": 116.6925536,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "华莱士",
+    "brand:en": "CNHLS",
+    "brand:wikidata": "Q15939607",
+    "brand:zh": "华莱士",
+    "cuisine": "burger;chicken",
+    "name": "华莱士",
+    "name:en": "CNHLS",
+    "name:zh": "华莱士",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10140237933,
+  "lat": 24.3493508,
+  "lon": 116.6874748,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "node",
+  "id": 10140238104,
+  "lat": 24.3617089,
+  "lon": 116.6990435,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林",
+    "opening_hours": "Mo-Su 08:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10140238119,
+  "lat": 24.3617497,
+  "lon": 116.6972675,
+  "tags": {
+    "name": "澳美饼店",
+    "payment:cash": "yes",
+    "shop": "pastry"
+  }
+},
+{
+  "type": "node",
+  "id": 10140238120,
+  "lat": 24.3562670,
+  "lon": 116.6931399,
+  "tags": {
+    "name": "澳美饼店",
+    "payment:cash": "yes",
+    "shop": "pastry"
+  }
+},
+{
+  "type": "node",
+  "id": 10140238121,
+  "lat": 24.3579743,
+  "lon": 116.6957629,
+  "tags": {
+    "name": "创新西饼屋",
+    "payment:cash": "yes",
+    "shop": "pastry"
+  }
+},
+{
+  "type": "node",
+  "id": 10140238122,
+  "lat": 24.3584038,
+  "lon": 116.6960213,
+  "tags": {
+    "name": "客都邦",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 10140238148,
+  "lat": 24.3528910,
+  "lon": 116.6800659,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林"
+  }
+},
+{
+  "type": "node",
+  "id": 10140238153,
+  "lat": 24.3542901,
+  "lon": 116.6790304,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林"
+  }
+},
+{
+  "type": "node",
+  "id": 10140238158,
+  "lat": 24.3569991,
+  "lon": 116.6960733,
+  "tags": {
+    "amenity": "bank",
+    "name": "广东大埔农村商业银行",
+    "opening_hours": "Mo-Fr 08:30-12:00,14:30-17:30"
+  }
+},
+{
+  "type": "node",
+  "id": 10251665664,
+  "lat": 24.3489605,
+  "lon": 116.6754896,
+  "tags": {
+    "artwork_type": "sculpture",
+    "name": "Cittaslow snail",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 10612109517,
+  "lat": 24.3618816,
+  "lon": 116.6976025,
+  "tags": {
+    "name": "台铃",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 10612109633,
+  "lat": 24.3577999,
+  "lon": 116.6922797,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "广利面店"
+  }
+},
+{
+  "type": "node",
+  "id": 10612109656,
+  "lat": 24.3566026,
+  "lon": 116.6929242,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "美优乐"
+  }
+},
+{
+  "type": "node",
+  "id": 10612109657,
+  "lat": 24.3566117,
+  "lon": 116.6930967,
+  "tags": {
+    "amenity": "kindergarten",
+    "name": "怡景幼儿园"
+  }
+},
+{
+  "type": "node",
+  "id": 10612109676,
+  "lat": 24.3523495,
+  "lon": 116.6917293,
+  "tags": {
+    "air_conditioning": "yes",
+    "amenity": "cafe",
+    "brand": "瑞幸咖啡",
+    "brand:en": "Luckin Coffee",
+    "brand:wikidata": "Q56811344",
+    "brand:zh": "瑞幸咖啡",
+    "cuisine": "coffee_shop",
+    "indoor_seating": "yes",
+    "name": "瑞幸咖啡",
+    "name:en": "Luckin Coffee",
+    "name:zh": "瑞幸咖啡",
+    "opening_hours": "Mo-Su 08:30-22:00",
+    "outdoor_seating": "no",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10612109677,
+  "lat": 24.3525041,
+  "lon": 116.6911779,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "益禾堂",
+    "brand:en": "YH.Tang",
+    "brand:wikidata": "Q110287075",
+    "brand:zh": "益禾堂",
+    "cuisine": "bubble_tea",
+    "name": "益禾堂",
+    "name:en": "YH.Tang",
+    "name:zh": "益禾堂",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10612109722,
+  "lat": 24.3526905,
+  "lon": 116.6880072,
+  "tags": {
+    "amenity": "library",
+    "name": "大埔县图书馆"
+  }
+},
+{
+  "type": "node",
+  "id": 10612109723,
+  "lat": 24.3535587,
+  "lon": 116.6881681,
+  "tags": {
+    "brand": "中国移动",
+    "brand:en": "China Mobile",
+    "brand:wikidata": "Q741618",
+    "brand:zh": "中国移动",
+    "name": "中国移动",
+    "name:en": "China Mobile",
+    "name:zh": "中国移动",
+    "shop": "telecommunication"
+  }
+},
+{
+  "type": "node",
+  "id": 10612109724,
+  "lat": 24.3536082,
+  "lon": 116.6885417,
+  "tags": {
+    "amenity": "bank",
+    "brand": "中国邮政储蓄银行",
+    "brand:en": "Postal Savings Bank of China",
+    "brand:wikidata": "Q986744",
+    "brand:zh": "中国邮政储蓄银行",
+    "name": "中国邮政储蓄银行",
+    "name:en": "Postal Savings Bank of China",
+    "name:zh": "中国邮政储蓄银行"
+  }
+},
+{
+  "type": "node",
+  "id": 10612109757,
+  "lat": 24.3538666,
+  "lon": 116.6887194,
+  "tags": {
+    "name": "澳美饼店",
+    "shop": "pastry"
+  }
+},
+{
+  "type": "node",
+  "id": 10612109773,
+  "lat": 24.3537380,
+  "lon": 116.6926203,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林",
+    "opening_hours": "Mo-Su 08:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10612109796,
+  "lat": 24.3561326,
+  "lon": 116.6925147,
+  "tags": {
+    "brand": "华为",
+    "brand:en": "Huawei",
+    "brand:wikidata": "Q160120",
+    "brand:zh": "华为",
+    "name": "华为",
+    "name:en": "Huawei",
+    "name:zh": "华为",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 11112907371,
+  "lat": 24.3564657,
+  "lon": 116.6960875,
+  "tags": {
+    "name": "万家五金水暖",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112911284,
+  "lat": 24.3569471,
+  "lon": 116.6808302,
+  "tags": {
+    "amenity": "atm",
+    "brand": "中国工商银行",
+    "brand:en": "Industrial and Commercial Bank of China",
+    "brand:wikidata": "Q26463",
+    "brand:zh": "中国工商银行",
+    "name:en": "Industrial and Commercial Bank of China",
+    "name:zh": "中国工商银行",
+    "operator": "中国工商银行",
+    "operator:wikidata": "Q26463"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916227,
+  "lat": 24.3576917,
+  "lon": 116.6922065,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "茶阳强记面店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916228,
+  "lat": 24.3543690,
+  "lon": 116.6881040,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "百健大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916229,
+  "lat": 24.3552122,
+  "lon": 116.6935597,
+  "tags": {
+    "name": "联丰化工",
+    "shop": "paint"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916230,
+  "lat": 24.3520360,
+  "lon": 116.6855394,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "金鼎轩美食"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916231,
+  "lat": 24.3524340,
+  "lon": 116.6801717,
+  "tags": {
+    "amenity": "fast_food"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916232,
+  "lat": 24.3536809,
+  "lon": 116.6777114,
+  "tags": {
+    "name": "艺恬窗帘",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916233,
+  "lat": 24.3607422,
+  "lon": 116.6855042,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "辉平大药行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916234,
+  "lat": 24.3564826,
+  "lon": 116.6836285,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "吉泰美食"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916235,
+  "lat": 24.3595379,
+  "lon": 116.6906931,
+  "tags": {
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916236,
+  "lat": 24.3582370,
+  "lon": 116.6897634,
+  "tags": {
+    "name": "爱维尔",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916237,
+  "lat": 24.3567482,
+  "lon": 116.6904336,
+  "tags": {
+    "name": "台铃",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916238,
+  "lat": 24.3526732,
+  "lon": 116.6892173,
+  "tags": {
+    "name": "华记修理单车",
+    "shop": "repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916239,
+  "lat": 24.3525497,
+  "lon": 116.6916303,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "sushi",
+    "name": "织田寿司"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916240,
+  "lat": 24.3522692,
+  "lon": 116.6917700,
+  "tags": {
+    "brand": "中国体育彩票",
+    "brand:en": "China Sports Lottery",
+    "brand:wikidata": "Q55696773",
+    "brand:zh": "中国体育彩票",
+    "name": "中国体育彩票",
+    "name:en": "China Sports Lottery",
+    "name:zh": "中国体育彩票",
+    "shop": "lottery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916241,
+  "lat": 24.3508764,
+  "lon": 116.6917835,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "美而康药业"
+  }
+},
+{
+  "type": "node",
+  "id": 11112916242,
+  "lat": 24.3510815,
+  "lon": 116.6853637,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112918335,
+  "lat": 24.3570857,
+  "lon": 116.6919182,
+  "tags": {
+    "name": "朵朵童装",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920328,
+  "lat": 24.3601575,
+  "lon": 116.6933655,
+  "tags": {
+    "name": "龙琛红木家私城",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920329,
+  "lat": 24.3584429,
+  "lon": 116.6929387,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "流芳鹅肉店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920330,
+  "lat": 24.3534679,
+  "lon": 116.6956251,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "seafood",
+    "name": "潮佬海鲜"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920331,
+  "lat": 24.3516873,
+  "lon": 116.6927835,
+  "tags": {
+    "name": "7号仓库",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920332,
+  "lat": 24.3524346,
+  "lon": 116.6927315,
+  "tags": {
+    "brand": "海澜之家",
+    "brand:en": "HLA",
+    "brand:wikidata": "Q5699411",
+    "brand:zh": "海澜之家",
+    "name": "海澜之家",
+    "name:en": "HLA",
+    "name:zh": "海澜之家",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920333,
+  "lat": 24.3519912,
+  "lon": 116.6910462,
+  "tags": {
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920334,
+  "lat": 24.3507008,
+  "lon": 116.6847425,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "华娇大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920335,
+  "lat": 24.3501505,
+  "lon": 116.6841841,
+  "tags": {
+    "name": "金科健图文",
+    "shop": "copyshop"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920336,
+  "lat": 24.3494651,
+  "lon": 116.6815084,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "姜太公渔洞"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920337,
+  "lat": 24.3567751,
+  "lon": 116.6804146,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "增辉医药"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920338,
+  "lat": 24.3542966,
+  "lon": 116.6793536,
+  "tags": {
+    "name": "澳美饼店",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920339,
+  "lat": 24.3607789,
+  "lon": 116.6813632,
+  "tags": {
+    "amenity": "vehicle_inspection",
+    "name": "机动车检测站"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920340,
+  "lat": 24.3609528,
+  "lon": 116.6872241,
+  "tags": {
+    "name": "万福世家",
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920341,
+  "lat": 24.3589365,
+  "lon": 116.6887818,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920342,
+  "lat": 24.3593269,
+  "lon": 116.6877867,
+  "tags": {
+    "name": "文化书店",
+    "shop": "stationery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920344,
+  "lat": 24.3588144,
+  "lon": 116.6852978,
+  "tags": {
+    "name": "大金空调",
+    "shop": "appliance"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920345,
+  "lat": 24.3601743,
+  "lon": 116.6913694,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "埔星美食"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920346,
+  "lat": 24.3528532,
+  "lon": 116.6890421,
+  "tags": {
+    "name": "尚之风造型",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920347,
+  "lat": 24.3520681,
+  "lon": 116.6910330,
+  "tags": {
+    "name": "薇甜烘焙",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920348,
+  "lat": 24.3534226,
+  "lon": 116.6916104,
+  "tags": {
+    "name": "百花书店",
+    "shop": "books"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920349,
+  "lat": 24.3514026,
+  "lon": 116.6925613,
+  "tags": {
+    "name": "顺景商务宾馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920350,
+  "lat": 24.3529917,
+  "lon": 116.6816445,
+  "tags": {
+    "amenity": "dentist",
+    "healthcare": "dentist",
+    "name": "蓝育东牙科诊所"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920351,
+  "lat": 24.3660653,
+  "lon": 116.6899089,
+  "tags": {
+    "shop": "tiles"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920352,
+  "lat": 24.3676688,
+  "lon": 116.7021041,
+  "tags": {
+    "amenity": "cinema",
+    "name": "金逸巨幕影城"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920353,
+  "lat": 24.3585213,
+  "lon": 116.6997907,
+  "tags": {
+    "name": "环记轮胎店",
+    "phone": "+86 13825917892",
+    "shop": "tyres"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920354,
+  "lat": 24.3585863,
+  "lon": 116.6986468,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "回春药店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920355,
+  "lat": 24.3620635,
+  "lon": 116.7001657,
+  "tags": {
+    "name": "翰林水果",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920356,
+  "lat": 24.3602595,
+  "lon": 116.6980679,
+  "tags": {
+    "name": "顺风家私",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112920357,
+  "lat": 24.3552590,
+  "lon": 116.6924146,
+  "tags": {
+    "name": "飞飞服饰",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112924363,
+  "lat": 24.3543563,
+  "lon": 116.6915218,
+  "tags": {
+    "name": "大东",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112924364,
+  "lat": 24.3535219,
+  "lon": 116.6916193,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926068,
+  "lat": 24.3536795,
+  "lon": 116.6893117,
+  "tags": {
+    "name": "世纪假期国旅",
+    "shop": "travel_agency"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926069,
+  "lat": 24.3541292,
+  "lon": 116.6922322,
+  "tags": {
+    "name": "三好眼镜",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926070,
+  "lat": 24.3527272,
+  "lon": 116.6796151,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q55719551",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926071,
+  "lat": 24.3567934,
+  "lon": 116.6803276,
+  "tags": {
+    "name": "艺手美容美发",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926072,
+  "lat": 24.3611378,
+  "lon": 116.6841077,
+  "tags": {
+    "name": "果然鲜",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926073,
+  "lat": 24.3600694,
+  "lon": 116.6858139,
+  "tags": {
+    "name": "好视立视光中心",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926074,
+  "lat": 24.3589704,
+  "lon": 116.6884127,
+  "tags": {
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926075,
+  "lat": 24.3583919,
+  "lon": 116.6896837,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926076,
+  "lat": 24.3536491,
+  "lon": 116.6884470,
+  "tags": {
+    "name": "大众眼镜",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926077,
+  "lat": 24.3523591,
+  "lon": 116.6883135,
+  "tags": {
+    "name": "巴爹廊烫染店",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926078,
+  "lat": 24.3520469,
+  "lon": 116.6917862,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926079,
+  "lat": 24.3525236,
+  "lon": 116.6915662,
+  "tags": {
+    "name": "大埔中旅",
+    "shop": "travel_agency"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926083,
+  "lat": 24.3623284,
+  "lon": 116.6892306,
+  "tags": {
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926084,
+  "lat": 24.3619959,
+  "lon": 116.6991143,
+  "tags": {
+    "name": "新润发",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926085,
+  "lat": 24.3619742,
+  "lon": 116.6994311,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "华莱士",
+    "brand:en": "CNHLS",
+    "brand:wikidata": "Q15939607",
+    "brand:zh": "华莱士",
+    "cuisine": "burger;chicken",
+    "name": "华莱士",
+    "name:en": "CNHLS",
+    "name:zh": "华莱士",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926086,
+  "lat": 24.3637177,
+  "lon": 116.6986214,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "佳美客家菜"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926087,
+  "lat": 24.3621775,
+  "lon": 116.7001722,
+  "tags": {
+    "name": "百车汇汽车养护",
+    "shop": "tyres"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926088,
+  "lat": 24.3635218,
+  "lon": 116.6955067,
+  "tags": {
+    "name": "新万里家私",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926089,
+  "lat": 24.3626377,
+  "lon": 116.7001415,
+  "tags": {
+    "name": "天猫优品电器店",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926090,
+  "lat": 24.3545927,
+  "lon": 116.6922186,
+  "tags": {
+    "name": "光明钟表",
+    "shop": "watches"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926639,
+  "lat": 24.3565028,
+  "lon": 116.6922727,
+  "tags": {
+    "amenity": "bank",
+    "name": "广东大埔农村商业银行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926640,
+  "lat": 24.3560832,
+  "lon": 116.6919256,
+  "tags": {
+    "name": "爱婴岛",
+    "shop": "baby_goods"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926641,
+  "lat": 24.3548722,
+  "lon": 116.6979012,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926642,
+  "lat": 24.3528925,
+  "lon": 116.6799881,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926643,
+  "lat": 24.3541879,
+  "lon": 116.6792975,
+  "tags": {
+    "name": "维凯伦门窗",
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926644,
+  "lat": 24.3595822,
+  "lon": 116.6821692,
+  "tags": {
+    "name": "首艺",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926645,
+  "lat": 24.3610549,
+  "lon": 116.6848800,
+  "tags": {
+    "name": "丽都门业",
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926646,
+  "lat": 24.3606887,
+  "lon": 116.6867635,
+  "tags": {
+    "shop": "tiles"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926647,
+  "lat": 24.3606486,
+  "lon": 116.6876449,
+  "tags": {
+    "shop": "interior_decoration"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926648,
+  "lat": 24.3592269,
+  "lon": 116.6879823,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926649,
+  "lat": 24.3643779,
+  "lon": 116.6934183,
+  "tags": {
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926650,
+  "lat": 24.3566494,
+  "lon": 116.6908454,
+  "tags": {
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926651,
+  "lat": 24.3666280,
+  "lon": 116.6924301,
+  "tags": {
+    "name": "富都家具中心",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926652,
+  "lat": 24.3564775,
+  "lon": 116.6923361,
+  "tags": {
+    "name": "联合大众眼镜",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926653,
+  "lat": 24.3553468,
+  "lon": 116.6914191,
+  "tags": {
+    "name": "快鱼",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926654,
+  "lat": 24.3618824,
+  "lon": 116.6990433,
+  "tags": {
+    "name": "婴幼城",
+    "shop": "baby_goods"
+  }
+},
+{
+  "type": "node",
+  "id": 11112926655,
+  "lat": 24.3534588,
+  "lon": 116.6918546,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929185,
+  "lat": 24.3611744,
+  "lon": 116.6930017,
+  "tags": {
+    "name": "格莱美发",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929186,
+  "lat": 24.3578899,
+  "lon": 116.6924731,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "众发蒸菜馆",
+    "phone": "+86 753 552 7778"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929187,
+  "lat": 24.3567912,
+  "lon": 116.6960685,
+  "tags": {
+    "name": "丽新商店",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929188,
+  "lat": 24.3518337,
+  "lon": 116.6917500,
+  "tags": {
+    "amenity": "bank",
+    "name": "梅州客家村镇银行",
+    "opening_hours": "Mo-Fr 08:30-17:00; Su 09:00-16:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929189,
+  "lat": 24.3538993,
+  "lon": 116.6920359,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929190,
+  "lat": 24.3499716,
+  "lon": 116.6839393,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929191,
+  "lat": 24.3594585,
+  "lon": 116.6823624,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "满意食府"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929192,
+  "lat": 24.3580841,
+  "lon": 116.6813735,
+  "tags": {
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929193,
+  "lat": 24.3608673,
+  "lon": 116.6845985,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "润康医药"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929194,
+  "lat": 24.3589181,
+  "lon": 116.6885523,
+  "tags": {
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929195,
+  "lat": 24.3595026,
+  "lon": 116.6868487,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "瑞丰大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929196,
+  "lat": 24.3603135,
+  "lon": 116.6871290,
+  "tags": {
+    "name": "阿真摩托维修",
+    "shop": "motorcycle_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929197,
+  "lat": 24.3633726,
+  "lon": 116.6935872,
+  "tags": {
+    "name": "城北五金交电",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929198,
+  "lat": 24.3602504,
+  "lon": 116.6911967,
+  "tags": {
+    "amenity": "dentist",
+    "healthcare": "dentist",
+    "name": "杨金兰牙科诊所"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929199,
+  "lat": 24.3523785,
+  "lon": 116.6892678,
+  "tags": {
+    "name": "文化宾馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112929200,
+  "lat": 24.3440040,
+  "lon": 116.6895997,
+  "tags": {
+    "name": "优鲜果园",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112932597,
+  "lat": 24.3580373,
+  "lon": 116.6927739,
+  "tags": {
+    "name": "雅迪",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112932598,
+  "lat": 24.3583201,
+  "lon": 116.6957624,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "新城肉圆店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112932599,
+  "lat": 24.3569723,
+  "lon": 116.6956366,
+  "tags": {
+    "name": "阳光干洗店",
+    "shop": "laundry"
+  }
+},
+{
+  "type": "node",
+  "id": 11112932600,
+  "lat": 24.3503886,
+  "lon": 116.6844710,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "心怡饭店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112932601,
+  "lat": 24.3529904,
+  "lon": 116.6800751,
+  "tags": {
+    "name": "名冠家具批发城",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112932602,
+  "lat": 24.3538219,
+  "lon": 116.6790661,
+  "tags": {
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112932603,
+  "lat": 24.3537178,
+  "lon": 116.6786019,
+  "tags": {
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112932604,
+  "lat": 24.3537863,
+  "lon": 116.6775122,
+  "tags": {
+    "name": "优品印象婚纱摄影",
+    "shop": "photo"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945640,
+  "lat": 24.3613121,
+  "lon": 116.6931893,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "如意饭店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945641,
+  "lat": 24.3549136,
+  "lon": 116.6924534,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "古茗",
+    "brand:en": "Goodme",
+    "brand:wikidata": "Q110107919",
+    "brand:zh": "古茗",
+    "cuisine": "ice_cream;bubble_tea",
+    "name": "古茗",
+    "name:en": "Goodme",
+    "name:zh": "古茗",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945642,
+  "lat": 24.3578836,
+  "lon": 116.6957610,
+  "tags": {
+    "name": "卡色剪烫",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945643,
+  "lat": 24.3560360,
+  "lon": 116.6961279,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "伴渔笙"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945644,
+  "lat": 24.3545754,
+  "lon": 116.6976783,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945645,
+  "lat": 24.3527554,
+  "lon": 116.6940706,
+  "tags": {
+    "name": "新润发",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945646,
+  "lat": 24.3513811,
+  "lon": 116.6920661,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945647,
+  "lat": 24.3492413,
+  "lon": 116.6835371,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "客家乐蒸菜馆"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945648,
+  "lat": 24.3585880,
+  "lon": 116.6820174,
+  "tags": {
+    "name": "美雅布艺",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945649,
+  "lat": 24.3594394,
+  "lon": 116.6824506,
+  "tags": {
+    "name": "海记卤味",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945650,
+  "lat": 24.3599298,
+  "lon": 116.6808178,
+  "tags": {
+    "name": "创达电脑",
+    "shop": "computer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945651,
+  "lat": 24.3576533,
+  "lon": 116.6796590,
+  "tags": {
+    "name": "成明汽车美容",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945652,
+  "lat": 24.3605354,
+  "lon": 116.6863721,
+  "tags": {
+    "brand": "中国福利彩票",
+    "brand:en": "China Welfare Lottery",
+    "brand:wikidata": "Q9384250",
+    "brand:zh": "中国福利彩票",
+    "name": "中国福利彩票",
+    "name:en": "China Welfare Lottery",
+    "name:zh": "中国福利彩票",
+    "shop": "lottery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945653,
+  "lat": 24.3590721,
+  "lon": 116.6882738,
+  "tags": {
+    "shop": "stationery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945654,
+  "lat": 24.3634741,
+  "lon": 116.6933390,
+  "tags": {
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945655,
+  "lat": 24.3573714,
+  "lon": 116.6903661,
+  "tags": {
+    "name": "旭升通讯",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945656,
+  "lat": 24.3530278,
+  "lon": 116.6919227,
+  "tags": {
+    "name": "广交书店",
+    "shop": "stationery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945657,
+  "lat": 24.3674136,
+  "lon": 116.7018827,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "name": "木屋烧烤"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945658,
+  "lat": 24.3620157,
+  "lon": 116.6996148,
+  "tags": {
+    "name": "新视力",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945659,
+  "lat": 24.3612174,
+  "lon": 116.6944607,
+  "tags": {
+    "brand": "中国体育彩票",
+    "brand:en": "China Sports Lottery",
+    "brand:wikidata": "Q55696773",
+    "brand:zh": "中国体育彩票",
+    "name": "中国体育彩票",
+    "name:en": "China Sports Lottery",
+    "name:zh": "中国体育彩票",
+    "shop": "lottery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945660,
+  "lat": 24.3602788,
+  "lon": 116.6947938,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "国惠康大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945661,
+  "lat": 24.3588649,
+  "lon": 116.6980886,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "尚锦轩美食府"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945662,
+  "lat": 24.3574219,
+  "lon": 116.6929218,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "重庆小面"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945663,
+  "lat": 24.3536366,
+  "lon": 116.6954528,
+  "tags": {
+    "female:signed": "no",
+    "male:signed": "no",
+    "name": "茹芳理发室",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112945664,
+  "lat": 24.3613827,
+  "lon": 116.7001877,
+  "tags": {
+    "name": "志成建材",
+    "shop": "interior_decoration"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947256,
+  "lat": 24.3577480,
+  "lon": 116.6916806,
+  "tags": {
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947257,
+  "lat": 24.3545985,
+  "lon": 116.6877871,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q55719551",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947258,
+  "lat": 24.3558670,
+  "lon": 116.6932689,
+  "tags": {
+    "shop": "electrical"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947259,
+  "lat": 24.3533084,
+  "lon": 116.6814262,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947260,
+  "lat": 24.3594242,
+  "lon": 116.6825828,
+  "tags": {
+    "name": "宏伟五金水暖",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947261,
+  "lat": 24.3593097,
+  "lon": 116.6862649,
+  "tags": {
+    "name": "莱芙家纺",
+    "shop": "bed"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947262,
+  "lat": 24.3585207,
+  "lon": 116.6857347,
+  "tags": {
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947263,
+  "lat": 24.3560460,
+  "lon": 116.6837459,
+  "tags": {
+    "name": "南北旺门窗",
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947264,
+  "lat": 24.3565345,
+  "lon": 116.6905980,
+  "tags": {
+    "name": "东记水果",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947265,
+  "lat": 24.3524207,
+  "lon": 116.6899392,
+  "tags": {
+    "name": "万众眼镜超市",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947266,
+  "lat": 24.3525927,
+  "lon": 116.6919784,
+  "tags": {
+    "name": "新世纪床上用品",
+    "shop": "bed"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947267,
+  "lat": 24.3580137,
+  "lon": 116.7002602,
+  "tags": {
+    "name": "东方红汽车修配厂",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947829,
+  "lat": 24.3520192,
+  "lon": 116.6811778,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "bubble_tea",
+    "name": "快乐番薯"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947830,
+  "lat": 24.3546953,
+  "lon": 116.6796764,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "美优乐"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947831,
+  "lat": 24.3581222,
+  "lon": 116.6812958,
+  "tags": {
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947832,
+  "lat": 24.3613907,
+  "lon": 116.6846683,
+  "tags": {
+    "name": "瑞和商务宾馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947833,
+  "lat": 24.3605044,
+  "lon": 116.6851672,
+  "tags": {
+    "name": "富兴商务宾馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947834,
+  "lat": 24.3592501,
+  "lon": 116.6856402,
+  "tags": {
+    "name": "方太",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947835,
+  "lat": 24.3637144,
+  "lon": 116.6931008,
+  "tags": {
+    "name": "一品香烧腊店",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947836,
+  "lat": 24.3523459,
+  "lon": 116.6884754,
+  "tags": {
+    "name": "淘精品小屋",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947837,
+  "lat": 24.3519737,
+  "lon": 116.6917839,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947838,
+  "lat": 24.3648692,
+  "lon": 116.6915542,
+  "tags": {
+    "name": "静宜美窗帘",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947839,
+  "lat": 24.3660676,
+  "lon": 116.6916040,
+  "tags": {
+    "name": "富康海电器店",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947840,
+  "lat": 24.3624088,
+  "lon": 116.6998112,
+  "tags": {
+    "name": "文记农资",
+    "shop": "agrarian"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947841,
+  "lat": 24.3641030,
+  "lon": 116.6949115,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "康利堂大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947842,
+  "lat": 24.3591154,
+  "lon": 116.6979399,
+  "tags": {
+    "name": "满意烧腊",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947843,
+  "lat": 24.3617024,
+  "lon": 116.6996602,
+  "tags": {
+    "name": "饶客鲜果",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947844,
+  "lat": 24.3556520,
+  "lon": 116.6934309,
+  "tags": {
+    "name": "富凯商店",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112947845,
+  "lat": 24.3538215,
+  "lon": 116.6915584,
+  "tags": {
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948763,
+  "lat": 24.3597022,
+  "lon": 116.6933310,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "阿庆小食"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948764,
+  "lat": 24.3574875,
+  "lon": 116.6921632,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "爽口大肉丸"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948765,
+  "lat": 24.3517853,
+  "lon": 116.6933573,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "石生肉丸"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948766,
+  "lat": 24.3542606,
+  "lon": 116.6925114,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "庆凤大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948767,
+  "lat": 24.3521727,
+  "lon": 116.6861061,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "国芬鹅肉店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948779,
+  "lat": 24.3539620,
+  "lon": 116.6791354,
+  "tags": {
+    "name": "珍珍美发室",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948780,
+  "lat": 24.3536219,
+  "lon": 116.6778391,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "圣源堂中药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948781,
+  "lat": 24.3579965,
+  "lon": 116.6815514,
+  "tags": {
+    "name": "王者陶瓷",
+    "shop": "tiles"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948782,
+  "lat": 24.3596177,
+  "lon": 116.6806084,
+  "tags": {
+    "name": "萌奇宝贝",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948784,
+  "lat": 24.3610953,
+  "lon": 116.6928513,
+  "tags": {
+    "name": "美和糕饼店",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948785,
+  "lat": 24.3566832,
+  "lon": 116.6902740,
+  "tags": {
+    "name": "优美世界",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948786,
+  "lat": 24.3523510,
+  "lon": 116.6916027,
+  "tags": {
+    "name": "荷祥婚丁",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948787,
+  "lat": 24.3544246,
+  "lon": 116.6826811,
+  "tags": {
+    "name": "广深灯饰",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948788,
+  "lat": 24.3619651,
+  "lon": 116.6895443,
+  "tags": {
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948789,
+  "lat": 24.3660087,
+  "lon": 116.6902298,
+  "tags": {
+    "shop": "tiles"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948790,
+  "lat": 24.3630602,
+  "lon": 116.6997959,
+  "tags": {
+    "name": "百顺名车服务",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948791,
+  "lat": 24.3604837,
+  "lon": 116.6946857,
+  "tags": {
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948792,
+  "lat": 24.3588864,
+  "lon": 116.6978773,
+  "tags": {
+    "name": "新雅五金",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948793,
+  "lat": 24.3589580,
+  "lon": 116.6984533,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:meat": "yes",
+    "name": "龙兴潮汕牛肉火锅",
+    "phone": "+86 150 1627 9186"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948795,
+  "lat": 24.3614179,
+  "lon": 116.7014639,
+  "tags": {
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948796,
+  "lat": 24.3544542,
+  "lon": 116.6922397,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112948797,
+  "lat": 24.3523610,
+  "lon": 116.6919830,
+  "tags": {
+    "name": "新世纪床上用品",
+    "shop": "bed"
+  }
+},
+{
+  "type": "node",
+  "id": 11112950599,
+  "lat": 24.3572751,
+  "lon": 116.6921944,
+  "tags": {
+    "name": "天丽自行车",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112950600,
+  "lat": 24.3587588,
+  "lon": 116.6957325,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "辉平大药行",
+    "opening_hours": "Mo-Su 07:30-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11112950601,
+  "lat": 24.3549906,
+  "lon": 116.6974771,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112950602,
+  "lat": 24.3518534,
+  "lon": 116.6920548,
+  "tags": {
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112950603,
+  "lat": 24.3532263,
+  "lon": 116.6916367,
+  "tags": {
+    "name": "大众眼镜",
+    "opening_hours": "Mo-Su 08:30-22:00",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11112950604,
+  "lat": 24.3543588,
+  "lon": 116.6922456,
+  "tags": {
+    "name": "麦香村烘焙",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112953799,
+  "lat": 24.3522901,
+  "lon": 116.6910391,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "bubble_tea",
+    "name": "叻茶小铺"
+  }
+},
+{
+  "type": "node",
+  "id": 11112953800,
+  "lat": 24.3524550,
+  "lon": 116.6907925,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112953801,
+  "lat": 24.3541219,
+  "lon": 116.6920343,
+  "tags": {
+    "name": "金大福",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11112953802,
+  "lat": 24.3547828,
+  "lon": 116.6824505,
+  "tags": {
+    "name": "雅美布艺",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112953803,
+  "lat": 24.3539067,
+  "lon": 116.6787290,
+  "tags": {
+    "name": "海棠四季超市",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11112953804,
+  "lat": 24.3550306,
+  "lon": 116.6791474,
+  "tags": {
+    "name": "西岩山茶",
+    "shop": "tea"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954230,
+  "lat": 24.3612782,
+  "lon": 116.6931405,
+  "tags": {
+    "name": "A+沙龙",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954231,
+  "lat": 24.3605271,
+  "lon": 116.6931162,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954232,
+  "lat": 24.3556697,
+  "lon": 116.6923676,
+  "tags": {
+    "name": "三好眼镜",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954233,
+  "lat": 24.3547112,
+  "lon": 116.6924762,
+  "tags": {
+    "name": "华三大",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954234,
+  "lat": 24.3522315,
+  "lon": 116.6870825,
+  "tags": {
+    "shop": "copyshop"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954235,
+  "lat": 24.3536542,
+  "lon": 116.6767557,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954236,
+  "lat": 24.3618692,
+  "lon": 116.6835215,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954237,
+  "lat": 24.3593855,
+  "lon": 116.6876915,
+  "tags": {
+    "name": "吉祥电器",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954238,
+  "lat": 24.3561280,
+  "lon": 116.6837997,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "春辉堂药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954239,
+  "lat": 24.3637115,
+  "lon": 116.6938525,
+  "tags": {
+    "name": "七彩布艺",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954240,
+  "lat": 24.3515815,
+  "lon": 116.6815814,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "name": "新疆正宗羊肉串"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954241,
+  "lat": 24.3568497,
+  "lon": 116.6926353,
+  "tags": {
+    "name": "新一代母婴用品",
+    "shop": "baby_goods"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954242,
+  "lat": 24.3565991,
+  "lon": 116.6931727,
+  "tags": {
+    "name": "生成综合商店",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954243,
+  "lat": 24.3622188,
+  "lon": 116.7001497,
+  "tags": {
+    "name": "帝奥斯门窗",
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954244,
+  "lat": 24.3613827,
+  "lon": 116.6982132,
+  "tags": {
+    "shop": "stationery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954245,
+  "lat": 24.3596830,
+  "lon": 116.6978892,
+  "tags": {
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954992,
+  "lat": 24.3611439,
+  "lon": 116.6949607,
+  "tags": {
+    "name": "雪城电器",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 11112954993,
+  "lat": 24.3558790,
+  "lon": 116.6915698,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955976,
+  "lat": 24.3611372,
+  "lon": 116.6929387,
+  "tags": {
+    "name": "果优鲜",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955977,
+  "lat": 24.3581106,
+  "lon": 116.6929655,
+  "tags": {
+    "name": "鲜的贸易商行",
+    "phone": "+86 137 1996 2332",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955978,
+  "lat": 24.3567531,
+  "lon": 116.6955424,
+  "tags": {
+    "name": "时代音响",
+    "shop": "hifi"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955979,
+  "lat": 24.3515406,
+  "lon": 116.6909039,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955980,
+  "lat": 24.3540602,
+  "lon": 116.6914058,
+  "tags": {
+    "name": "博士眼镜",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955981,
+  "lat": 24.3529205,
+  "lon": 116.6811681,
+  "tags": {
+    "name": "名汇车行",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955982,
+  "lat": 24.3534349,
+  "lon": 116.6783980,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "西湖食府"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955983,
+  "lat": 24.3588915,
+  "lon": 116.6822516,
+  "tags": {
+    "name": "城堡酒业",
+    "shop": "wine"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955984,
+  "lat": 24.3605045,
+  "lon": 116.6859270,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q55719551",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955985,
+  "lat": 24.3583340,
+  "lon": 116.6856030,
+  "tags": {
+    "name": "东鹏瓷砖",
+    "shop": "tiles"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955986,
+  "lat": 24.3560221,
+  "lon": 116.6833683,
+  "tags": {
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955987,
+  "lat": 24.3567016,
+  "lon": 116.6908123,
+  "tags": {
+    "name": "简艺造型",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955988,
+  "lat": 24.3524480,
+  "lon": 116.6901470,
+  "tags": {
+    "brand": "中国体育彩票",
+    "brand:en": "China Sports Lottery",
+    "brand:wikidata": "Q55696773",
+    "brand:zh": "中国体育彩票",
+    "name": "中国体育彩票",
+    "name:en": "China Sports Lottery",
+    "name:zh": "中国体育彩票",
+    "shop": "lottery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955989,
+  "lat": 24.3662860,
+  "lon": 116.7027896,
+  "tags": {
+    "brand": "老凤祥",
+    "brand:en": "Lao Feng Xiang",
+    "brand:wikidata": "Q15910313",
+    "brand:zh": "老凤祥",
+    "name": "老凤祥",
+    "name:en": "Lao Feng Xiang",
+    "name:zh": "老凤祥",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955990,
+  "lat": 24.3572993,
+  "lon": 116.6926330,
+  "tags": {
+    "name": "鸿涛车行",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955991,
+  "lat": 24.3637432,
+  "lon": 116.6997709,
+  "tags": {
+    "name": "锦鹏装饰设计",
+    "shop": "interior_decoration"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955992,
+  "lat": 24.3609043,
+  "lon": 116.6978206,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "珍珍美食"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955993,
+  "lat": 24.3553084,
+  "lon": 116.6921506,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112955994,
+  "lat": 24.3537536,
+  "lon": 116.6923129,
+  "tags": {
+    "name": "荣记锁业",
+    "shop": "locksmith"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956246,
+  "lat": 24.3571974,
+  "lon": 116.6960617,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese;asian",
+    "indoor_seating": "yes",
+    "name": "锦旺轩烧腊",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956247,
+  "lat": 24.3576906,
+  "lon": 116.6960471,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "深华大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956248,
+  "lat": 24.3500353,
+  "lon": 116.6840166,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "深华大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956249,
+  "lat": 24.3522427,
+  "lon": 116.6811448,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956250,
+  "lat": 24.3541665,
+  "lon": 116.6789534,
+  "tags": {
+    "name": "潮卤美食",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956251,
+  "lat": 24.3553121,
+  "lon": 116.6800638,
+  "tags": {
+    "name": "梅舟酒",
+    "shop": "alcohol"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956252,
+  "lat": 24.3600392,
+  "lon": 116.6810927,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "bubble_tea"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956253,
+  "lat": 24.3616624,
+  "lon": 116.6838543,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956254,
+  "lat": 24.3598601,
+  "lon": 116.6908127,
+  "tags": {
+    "name": "慧海电脑",
+    "shop": "computer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956255,
+  "lat": 24.3560765,
+  "lon": 116.6912647,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "御医堂药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956256,
+  "lat": 24.3537765,
+  "lon": 116.6873020,
+  "tags": {
+    "name": "生和家私",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956257,
+  "lat": 24.3537753,
+  "lon": 116.6918209,
+  "tags": {
+    "name": "蝴蝶仙子",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956258,
+  "lat": 24.3423027,
+  "lon": 116.6902184,
+  "tags": {
+    "name": "五虎山家私",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956259,
+  "lat": 24.3621880,
+  "lon": 116.6890293,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "name": "阿凡提新疆烧烤"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956260,
+  "lat": 24.3615966,
+  "lon": 116.6900884,
+  "tags": {
+    "shop": "motorcycle_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956261,
+  "lat": 24.3626507,
+  "lon": 116.6997901,
+  "tags": {
+    "shop": "tyres"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956262,
+  "lat": 24.3613891,
+  "lon": 116.6949519,
+  "tags": {
+    "name": "浙江鑫鑫窗帘",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956263,
+  "lat": 24.3591698,
+  "lon": 116.6954804,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "多美好大排档"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956264,
+  "lat": 24.3584578,
+  "lon": 116.7002236,
+  "tags": {
+    "name": "东兴汽车装饰部",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956265,
+  "lat": 24.3658217,
+  "lon": 116.7030461,
+  "tags": {
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956266,
+  "lat": 24.3618263,
+  "lon": 116.6976982,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "顺鑫堂药店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956455,
+  "lat": 24.3547557,
+  "lon": 116.6917231,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956640,
+  "lat": 24.3547855,
+  "lon": 116.6960386,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "健和药店",
+    "opening_hours": "Mo-Su 07:30-22:30"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956641,
+  "lat": 24.3546392,
+  "lon": 116.6921344,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956642,
+  "lat": 24.3534967,
+  "lon": 116.6954082,
+  "tags": {
+    "name": "文兴五金",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956643,
+  "lat": 24.3566193,
+  "lon": 116.6960789,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "福来客牛胞衣"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956644,
+  "lat": 24.3662949,
+  "lon": 116.6904108,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "辉平大药行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956722,
+  "lat": 24.3486515,
+  "lon": 116.6806638,
+  "tags": {
+    "name": "穗宝床垫",
+    "shop": "bed"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956723,
+  "lat": 24.3581046,
+  "lon": 116.6924406,
+  "tags": {
+    "name": "琴记水果店",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112956724,
+  "lat": 24.3568414,
+  "lon": 116.6922543,
+  "tags": {
+    "name": "金波通讯",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959127,
+  "lat": 24.3612280,
+  "lon": 116.6930997,
+  "tags": {
+    "name": "福临门布艺",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959128,
+  "lat": 24.3567054,
+  "lon": 116.6960780,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "文师傅大肉丸"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959129,
+  "lat": 24.3558457,
+  "lon": 116.6961404,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959130,
+  "lat": 24.3552713,
+  "lon": 116.6962765,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "众记烧腊"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959131,
+  "lat": 24.3545209,
+  "lon": 116.6876702,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959132,
+  "lat": 24.3560729,
+  "lon": 116.6917029,
+  "tags": {
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959133,
+  "lat": 24.3502501,
+  "lon": 116.6842934,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "福春堂大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959134,
+  "lat": 24.3531883,
+  "lon": 116.6813255,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959135,
+  "lat": 24.3585906,
+  "lon": 116.6805067,
+  "tags": {
+    "name": "以车会友",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959136,
+  "lat": 24.3609130,
+  "lon": 116.6851142,
+  "tags": {
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959137,
+  "lat": 24.3538647,
+  "lon": 116.6869357,
+  "tags": {
+    "name": "海棠四季",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959138,
+  "lat": 24.3524648,
+  "lon": 116.6900421,
+  "tags": {
+    "amenity": "toilets"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959139,
+  "lat": 24.3511921,
+  "lon": 116.6850267,
+  "tags": {
+    "amenity": "fast_food",
+    "brand": "华莱士",
+    "brand:en": "CNHLS",
+    "brand:wikidata": "Q15939607",
+    "brand:zh": "华莱士",
+    "cuisine": "burger;chicken",
+    "name": "华莱士",
+    "name:en": "CNHLS",
+    "name:zh": "华莱士",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959140,
+  "lat": 24.3613406,
+  "lon": 116.6905345,
+  "tags": {
+    "name": "想记汽车维修",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959141,
+  "lat": 24.3670251,
+  "lon": 116.7020711,
+  "tags": {
+    "name": "爱婴岛",
+    "shop": "baby_goods"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959142,
+  "lat": 24.3643434,
+  "lon": 116.6990994,
+  "tags": {
+    "name": "好家居布艺",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959143,
+  "lat": 24.3587015,
+  "lon": 116.6967740,
+  "tags": {
+    "shop": "motorcycle_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959144,
+  "lat": 24.3597227,
+  "lon": 116.6981655,
+  "tags": {
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959145,
+  "lat": 24.3622849,
+  "lon": 116.7025143,
+  "tags": {
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959146,
+  "lat": 24.3541784,
+  "lon": 116.6932604,
+  "tags": {
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959481,
+  "lat": 24.3577866,
+  "lon": 116.6928520,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "十点半"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959482,
+  "lat": 24.3569858,
+  "lon": 116.6922254,
+  "tags": {
+    "name": "智业通讯",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959484,
+  "lat": 24.3541806,
+  "lon": 116.6956367,
+  "tags": {
+    "name": "黄记车行",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112959787,
+  "lat": 24.3580084,
+  "lon": 116.6923139,
+  "tags": {
+    "name": "兴明水果店",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112961648,
+  "lat": 24.3545544,
+  "lon": 116.6915116,
+  "tags": {
+    "name": "意尔康",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112961649,
+  "lat": 24.3542984,
+  "lon": 116.6917632,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112961650,
+  "lat": 24.3535894,
+  "lon": 116.6918400,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962673,
+  "lat": 24.3550253,
+  "lon": 116.6962935,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "为民大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962674,
+  "lat": 24.3527826,
+  "lon": 116.6919510,
+  "tags": {
+    "name": "广超电器",
+    "shop": "hifi"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962839,
+  "lat": 24.3574143,
+  "lon": 116.6958007,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "金满堂美食"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962840,
+  "lat": 24.3552249,
+  "lon": 116.6958708,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962841,
+  "lat": 24.3510357,
+  "lon": 116.6917385,
+  "tags": {
+    "brand": "中国电信",
+    "brand:en": "China Telecom",
+    "brand:wikidata": "Q1073540",
+    "brand:zh": "中国电信",
+    "name": "中国电信",
+    "name:en": "China Telecom",
+    "name:zh": "中国电信",
+    "shop": "telecommunication"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962842,
+  "lat": 24.3559863,
+  "lon": 116.6932042,
+  "tags": {
+    "name": "太源宾馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962843,
+  "lat": 24.3513399,
+  "lon": 116.6855234,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "回春药店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962844,
+  "lat": 24.3550653,
+  "lon": 116.6826475,
+  "tags": {
+    "shop": "interior_decoration"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962845,
+  "lat": 24.3565950,
+  "lon": 116.6805467,
+  "tags": {
+    "shop": "paint"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962846,
+  "lat": 24.3585690,
+  "lon": 116.6805914,
+  "tags": {
+    "name": "家馨布艺",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962847,
+  "lat": 24.3591463,
+  "lon": 116.6881226,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962848,
+  "lat": 24.3589778,
+  "lon": 116.6854515,
+  "tags": {
+    "shop": "tiles"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962849,
+  "lat": 24.3642573,
+  "lon": 116.6934055,
+  "tags": {
+    "name": "来记水果店",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962850,
+  "lat": 24.3569223,
+  "lon": 116.6907638,
+  "tags": {
+    "name": "宏德照相馆",
+    "shop": "photo"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962851,
+  "lat": 24.3418703,
+  "lon": 116.6903362,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q97300244",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962852,
+  "lat": 24.3534117,
+  "lon": 116.6815330,
+  "tags": {
+    "name": "蓝亮车业",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962853,
+  "lat": 24.3591639,
+  "lon": 116.6979997,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "美味鲜麻辣烫"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962854,
+  "lat": 24.3567912,
+  "lon": 116.6928678,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "锦旺轩烧腊"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962855,
+  "lat": 24.3586029,
+  "lon": 116.6990604,
+  "tags": {
+    "name": "顺成布艺",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962856,
+  "lat": 24.3606567,
+  "lon": 116.6975845,
+  "tags": {
+    "name": "奇华综合商店",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "phone": "+86 753 5538518",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962858,
+  "lat": 24.3634360,
+  "lon": 116.6997601,
+  "tags": {
+    "name": "农喜农资",
+    "shop": "agrarian"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962859,
+  "lat": 24.3542451,
+  "lon": 116.6940063,
+  "tags": {
+    "name": "健足鞋店",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112962860,
+  "lat": 24.3557487,
+  "lon": 116.6915774,
+  "tags": {
+    "brand": "安踏",
+    "brand:en": "Anta",
+    "brand:wikidata": "Q4653060",
+    "brand:zh": "安踏",
+    "name": "安踏",
+    "name:en": "Anta",
+    "name:zh": "安踏",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963665,
+  "lat": 24.3579403,
+  "lon": 116.6920471,
+  "tags": {
+    "brand": "Suzuki",
+    "brand:wikidata": "Q181642",
+    "name": "Suzuki",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963666,
+  "lat": 24.3556511,
+  "lon": 116.6961448,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963667,
+  "lat": 24.3514949,
+  "lon": 116.6920518,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963668,
+  "lat": 24.3504433,
+  "lon": 116.6845533,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q55719551",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963669,
+  "lat": 24.3524220,
+  "lon": 116.6804343,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "bubble_tea"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963670,
+  "lat": 24.3608554,
+  "lon": 116.6870753,
+  "tags": {
+    "shop": "tiles"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963671,
+  "lat": 24.3588073,
+  "lon": 116.6880125,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "伟坚餐室"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963672,
+  "lat": 24.3595669,
+  "lon": 116.6867448,
+  "tags": {
+    "name": "果然鲜",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963673,
+  "lat": 24.3602378,
+  "lon": 116.6856062,
+  "tags": {
+    "name": "大自然木门",
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963674,
+  "lat": 24.3609657,
+  "lon": 116.6930769,
+  "tags": {
+    "name": "平安摩托维修",
+    "shop": "motorcycle_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963675,
+  "lat": 24.3531831,
+  "lon": 116.6881613,
+  "tags": {
+    "name": "科迪电脑",
+    "shop": "computer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963676,
+  "lat": 24.3522945,
+  "lon": 116.6878951,
+  "tags": {
+    "name": "万兴干洗店",
+    "shop": "laundry"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963677,
+  "lat": 24.3519401,
+  "lon": 116.6919959,
+  "tags": {
+    "name": "万里鞋业",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963678,
+  "lat": 24.3536600,
+  "lon": 116.6821771,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "貌记饭店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963679,
+  "lat": 24.3664820,
+  "lon": 116.6921575,
+  "tags": {
+    "amenity": "bar"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963680,
+  "lat": 24.3632032,
+  "lon": 116.6997541,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "静心堂大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963681,
+  "lat": 24.3631229,
+  "lon": 116.6954526,
+  "tags": {
+    "name": "明记车行",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963682,
+  "lat": 24.3588248,
+  "lon": 116.6981461,
+  "tags": {
+    "name": "名远车行",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963683,
+  "lat": 24.3576503,
+  "lon": 116.6927656,
+  "tags": {
+    "amenity": "dentist",
+    "healthcare": "dentist",
+    "name": "李秀群口腔诊所"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963684,
+  "lat": 24.3589015,
+  "lon": 116.6979592,
+  "tags": {
+    "brand": "中国福利彩票",
+    "brand:en": "China Welfare Lottery",
+    "brand:wikidata": "Q9384250",
+    "brand:zh": "中国福利彩票",
+    "name": "中国福利彩票",
+    "name:en": "China Welfare Lottery",
+    "name:zh": "中国福利彩票",
+    "shop": "lottery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963685,
+  "lat": 24.3674991,
+  "lon": 116.7023630,
+  "tags": {
+    "amenity": "karaoke_box",
+    "name": "爱魅KTV"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963686,
+  "lat": 24.3613562,
+  "lon": 116.6977084,
+  "tags": {
+    "name": "爱果",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963687,
+  "lat": 24.3560096,
+  "lon": 116.6910986,
+  "tags": {
+    "name": "微品假日酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112963688,
+  "lat": 24.3527664,
+  "lon": 116.6924128,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "辉平大药行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112964333,
+  "lat": 24.3523490,
+  "lon": 116.6924567,
+  "tags": {
+    "name": "强盛电器",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967215,
+  "lat": 24.3561822,
+  "lon": 116.6908545,
+  "tags": {
+    "name": "同创百货",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967216,
+  "lat": 24.3542227,
+  "lon": 116.6917784,
+  "tags": {
+    "name": "爱伊服",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967217,
+  "lat": 24.3560590,
+  "lon": 116.6817947,
+  "tags": {
+    "name": "长荣通讯",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967666,
+  "lat": 24.3594989,
+  "lon": 116.6933207,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "娟娟牛杂面店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967667,
+  "lat": 24.3564998,
+  "lon": 116.6924582,
+  "tags": {
+    "brand": "华为",
+    "brand:en": "Huawei",
+    "brand:wikidata": "Q160120",
+    "brand:zh": "华为",
+    "name": "华为",
+    "name:en": "Huawei",
+    "name:zh": "华为",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967668,
+  "lat": 24.3585490,
+  "lon": 116.6960370,
+  "tags": {
+    "shop": "butcher"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967669,
+  "lat": 24.3543616,
+  "lon": 116.6958975,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "name": "新疆阿布兄弟烧烤"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967670,
+  "lat": 24.3519337,
+  "lon": 116.6910603,
+  "tags": {
+    "name": "光景照相馆",
+    "shop": "photo"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967671,
+  "lat": 24.3516885,
+  "lon": 116.6857713,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967672,
+  "lat": 24.3552321,
+  "lon": 116.6832322,
+  "tags": {
+    "name": "本丰车行",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967673,
+  "lat": 24.3564113,
+  "lon": 116.6818073,
+  "tags": {
+    "name": "车天下",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967674,
+  "lat": 24.3563609,
+  "lon": 116.6803473,
+  "tags": {
+    "name": "生和家私",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967675,
+  "lat": 24.3586121,
+  "lon": 116.6823398,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "泉记面店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967676,
+  "lat": 24.3523757,
+  "lon": 116.6890526,
+  "tags": {
+    "name": "衣佳人",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967677,
+  "lat": 24.3535406,
+  "lon": 116.6918454,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967678,
+  "lat": 24.3630440,
+  "lon": 116.6951603,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "明珠大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967679,
+  "lat": 24.3561138,
+  "lon": 116.6924458,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "90度茶餐厅"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967680,
+  "lat": 24.3564405,
+  "lon": 116.6917572,
+  "tags": {
+    "name": "新艺刻章",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967681,
+  "lat": 24.3490227,
+  "lon": 116.6991629,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "安康大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967682,
+  "lat": 24.3614591,
+  "lon": 116.6973649,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "健和大药房",
+    "opening_hours": "Mo-Su 07:30-22:30"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967683,
+  "lat": 24.3619853,
+  "lon": 116.6995484,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "广春堂大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967684,
+  "lat": 24.3621760,
+  "lon": 116.7025655,
+  "tags": {
+    "name": "四季鲜生鲜超市",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967685,
+  "lat": 24.3552321,
+  "lon": 116.6938115,
+  "tags": {
+    "name": "德高家私城",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112967686,
+  "lat": 24.3535584,
+  "lon": 116.6923350,
+  "tags": {
+    "name": "新一代",
+    "shop": "baby_goods"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968868,
+  "lat": 24.3576687,
+  "lon": 116.6915004,
+  "tags": {
+    "brand": "Honda",
+    "brand:wikidata": "Q9584",
+    "name": "Honda",
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968869,
+  "lat": 24.3554243,
+  "lon": 116.6961536,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968870,
+  "lat": 24.3541161,
+  "lon": 116.6792639,
+  "tags": {
+    "name": "黄枝香盐焗烧腊",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968871,
+  "lat": 24.3534522,
+  "lon": 116.6782176,
+  "tags": {
+    "name": "飞马峰茶业",
+    "shop": "tea"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968872,
+  "lat": 24.3532754,
+  "lon": 116.6786580,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "bubble_tea",
+    "name": "茶萃吧"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968873,
+  "lat": 24.3548385,
+  "lon": 116.6790088,
+  "tags": {
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968874,
+  "lat": 24.3604620,
+  "lon": 116.6860696,
+  "tags": {
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968875,
+  "lat": 24.3589372,
+  "lon": 116.6884770,
+  "tags": {
+    "name": "先河照相馆",
+    "shop": "photo"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968876,
+  "lat": 24.3591041,
+  "lon": 116.6860811,
+  "tags": {
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968877,
+  "lat": 24.3555101,
+  "lon": 116.6833814,
+  "tags": {
+    "name": "立师汽车美容保养",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968878,
+  "lat": 24.3662991,
+  "lon": 116.6940920,
+  "tags": {
+    "amenity": "car_rental",
+    "name": "顺丰租车"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968879,
+  "lat": 24.3517683,
+  "lon": 116.6915113,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "富芋满记甜品"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968880,
+  "lat": 24.3409428,
+  "lon": 116.6906394,
+  "tags": {
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968881,
+  "lat": 24.3540621,
+  "lon": 116.6819614,
+  "tags": {
+    "name": "逢源布艺",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968882,
+  "lat": 24.3671804,
+  "lon": 116.7022194,
+  "tags": {
+    "name": "嘉荣超市",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968883,
+  "lat": 24.3646214,
+  "lon": 116.6996329,
+  "tags": {
+    "name": "恒发商务宾馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968884,
+  "lat": 24.3615319,
+  "lon": 116.6950605,
+  "tags": {
+    "name": "辉创五金机电",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968885,
+  "lat": 24.3594794,
+  "lon": 116.6979194,
+  "tags": {
+    "brand": "中国福利彩票",
+    "brand:en": "China Welfare Lottery",
+    "brand:wikidata": "Q9384250",
+    "brand:zh": "中国福利彩票",
+    "name": "中国福利彩票",
+    "name:en": "China Welfare Lottery",
+    "name:zh": "中国福利彩票",
+    "shop": "lottery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968886,
+  "lat": 24.3577188,
+  "lon": 116.6930965,
+  "tags": {
+    "name": "慕色造型",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968887,
+  "lat": 24.3548245,
+  "lon": 116.6917005,
+  "tags": {
+    "brand": "特步",
+    "brand:en": "Xtep",
+    "brand:wikidata": "Q4021859",
+    "brand:zh": "特步",
+    "name": "特步",
+    "name:en": "Xtep",
+    "name:zh": "特步",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968888,
+  "lat": 24.3538912,
+  "lon": 116.6997776,
+  "tags": {
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968889,
+  "lat": 24.3656569,
+  "lon": 116.7027304,
+  "tags": {
+    "name": "京东家电",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968891,
+  "lat": 24.3588402,
+  "lon": 116.6974524,
+  "tags": {
+    "name": "实惠多综合商行",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112968892,
+  "lat": 24.3525782,
+  "lon": 116.6922880,
+  "tags": {
+    "beauty": "nails",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 11112969399,
+  "lat": 24.3582018,
+  "lon": 116.6925567,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112969400,
+  "lat": 24.3516037,
+  "lon": 116.6917640,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "康泽药业"
+  }
+},
+{
+  "type": "node",
+  "id": 11112969401,
+  "lat": 24.3532165,
+  "lon": 116.6918977,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112969402,
+  "lat": 24.3541766,
+  "lon": 116.6925331,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "宝源堂大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112969403,
+  "lat": 24.3537179,
+  "lon": 116.6900557,
+  "tags": {
+    "name": "以纯",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112969404,
+  "lat": 24.3538902,
+  "lon": 116.6918500,
+  "tags": {
+    "brand": "六福珠宝",
+    "brand:en": "Lukfook Jewellery",
+    "brand:wikidata": "Q10893397",
+    "brand:zh": "六福珠宝",
+    "name": "六福珠宝",
+    "name:en": "Lukfook Jewellery",
+    "name:zh": "六福珠宝",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970161,
+  "lat": 24.3564873,
+  "lon": 116.6925598,
+  "tags": {
+    "name": "华硕",
+    "shop": "computer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970162,
+  "lat": 24.3548434,
+  "lon": 116.6973063,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970163,
+  "lat": 24.3541082,
+  "lon": 116.6919434,
+  "tags": {
+    "brand": "周大福",
+    "brand:en": "Chow Tai Fook",
+    "brand:wikidata": "Q48880993",
+    "brand:zh": "周大福",
+    "name": "周大福",
+    "name:en": "Chow Tai Fook",
+    "name:zh": "周大福",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970164,
+  "lat": 24.3560938,
+  "lon": 116.6931494,
+  "tags": {
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970165,
+  "lat": 24.3492053,
+  "lon": 116.6834357,
+  "tags": {
+    "name": "丽湖宾馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970166,
+  "lat": 24.3517543,
+  "lon": 116.6816711,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "茶阳雄记面店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970167,
+  "lat": 24.3561432,
+  "lon": 116.6801642,
+  "tags": {
+    "name": "金大田门业",
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970168,
+  "lat": 24.3575041,
+  "lon": 116.6812468,
+  "tags": {
+    "name": "品茗轩",
+    "shop": "tea"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970169,
+  "lat": 24.3590015,
+  "lon": 116.6888391,
+  "tags": {
+    "amenity": "dentist",
+    "healthcare": "dentist",
+    "name": "杨飞山牙科"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970170,
+  "lat": 24.3587256,
+  "lon": 116.6873015,
+  "tags": {
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970171,
+  "lat": 24.3563206,
+  "lon": 116.6839524,
+  "tags": {
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970172,
+  "lat": 24.3675041,
+  "lon": 116.6945607,
+  "tags": {
+    "name": "新缘蛋糕",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970173,
+  "lat": 24.3602044,
+  "lon": 116.6914687,
+  "tags": {
+    "name": "翠翠布艺",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970174,
+  "lat": 24.3515440,
+  "lon": 116.6902805,
+  "tags": {
+    "name": "启航电脑中心",
+    "shop": "computer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970175,
+  "lat": 24.3539985,
+  "lon": 116.6823458,
+  "tags": {
+    "name": "雅赏墙布",
+    "shop": "interior_decoration"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970176,
+  "lat": 24.3652349,
+  "lon": 116.6896704,
+  "tags": {
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970177,
+  "lat": 24.3683078,
+  "lon": 116.6934695,
+  "tags": {
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970178,
+  "lat": 24.3673673,
+  "lon": 116.7021396,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "bubble_tea"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970179,
+  "lat": 24.3619677,
+  "lon": 116.6993342,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "辉平大药行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970180,
+  "lat": 24.3638029,
+  "lon": 116.6988371,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "达海隆餐厅"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970181,
+  "lat": 24.3635893,
+  "lon": 116.6960572,
+  "tags": {
+    "name": "海岸灯饰城",
+    "shop": "lighting"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970191,
+  "lat": 24.3582427,
+  "lon": 116.6957554,
+  "tags": {
+    "name": "老曹水果店",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970192,
+  "lat": 24.3614526,
+  "lon": 116.7026347,
+  "tags": {
+    "shop": "interior_decoration"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970193,
+  "lat": 24.3544663,
+  "lon": 116.6924911,
+  "tags": {
+    "name": "康城五金",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970194,
+  "lat": 24.3559639,
+  "lon": 116.6923430,
+  "tags": {
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970269,
+  "lat": 24.3524078,
+  "lon": 116.6922127,
+  "tags": {
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970270,
+  "lat": 24.3615954,
+  "lon": 116.6984657,
+  "tags": {
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970271,
+  "lat": 24.3577598,
+  "lon": 116.6922407,
+  "tags": {
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970399,
+  "lat": 24.3582837,
+  "lon": 116.6960271,
+  "tags": {
+    "name": "新城商店",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970400,
+  "lat": 24.3538225,
+  "lon": 116.6881551,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970401,
+  "lat": 24.3512930,
+  "lon": 116.6850751,
+  "tags": {
+    "shop": "copyshop"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970402,
+  "lat": 24.3558436,
+  "lon": 116.6826109,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "海鲜范蒸汽火锅"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970403,
+  "lat": 24.3545982,
+  "lon": 116.6791692,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970404,
+  "lat": 24.3585327,
+  "lon": 116.6806491,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "茶阳柏玲山泉水面馆"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970930,
+  "lat": 24.3578755,
+  "lon": 116.6919173,
+  "tags": {
+    "name": "国盛宾馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970931,
+  "lat": 24.3558257,
+  "lon": 116.6923551,
+  "tags": {
+    "name": "京东家电",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970932,
+  "lat": 24.3542096,
+  "lon": 116.6789073,
+  "tags": {
+    "name": "花巷花艺",
+    "shop": "florist"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970933,
+  "lat": 24.3605020,
+  "lon": 116.6811555,
+  "tags": {
+    "name": "盛世汽贸",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970934,
+  "lat": 24.3610263,
+  "lon": 116.6881882,
+  "tags": {
+    "name": "旭日车行",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970935,
+  "lat": 24.3646228,
+  "lon": 116.6936871,
+  "tags": {
+    "name": "学记自行车行",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970936,
+  "lat": 24.3564200,
+  "lon": 116.6906948,
+  "tags": {
+    "name": "阿玲窗帘",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970937,
+  "lat": 24.3534647,
+  "lon": 116.6866313,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "凤记鱼头粉"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970938,
+  "lat": 24.3449188,
+  "lon": 116.6893059,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "辉平大药行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970939,
+  "lat": 24.3626952,
+  "lon": 116.6898346,
+  "tags": {
+    "name": "中兴宾馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970940,
+  "lat": 24.3653858,
+  "lon": 116.6906883,
+  "tags": {
+    "amenity": "bank",
+    "name": "广东大埔农村商业银行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970942,
+  "lat": 24.3614327,
+  "lon": 116.6950527,
+  "tags": {
+    "name": "艺绣美容美发",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112970944,
+  "lat": 24.3539058,
+  "lon": 116.6921829,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "华娇药店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971021,
+  "lat": 24.3483455,
+  "lon": 116.6791960,
+  "tags": {
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971022,
+  "lat": 24.3616902,
+  "lon": 116.6994527,
+  "tags": {
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971023,
+  "lat": 24.3560234,
+  "lon": 116.6915641,
+  "tags": {
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971024,
+  "lat": 24.3548100,
+  "lon": 116.6914845,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971031,
+  "lat": 24.3653895,
+  "lon": 116.6937421,
+  "tags": {
+    "name": "米亚面包屋",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971223,
+  "lat": 24.3607780,
+  "lon": 116.6934039,
+  "tags": {
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971224,
+  "lat": 24.3579370,
+  "lon": 116.6931608,
+  "tags": {
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971637,
+  "lat": 24.3554757,
+  "lon": 116.6923883,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "burger",
+    "name": "塔斯汀"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971638,
+  "lat": 24.3547560,
+  "lon": 116.6957488,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "美味餐厅"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971639,
+  "lat": 24.3562620,
+  "lon": 116.6907828,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "广红面店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971640,
+  "lat": 24.3538372,
+  "lon": 116.6918197,
+  "tags": {
+    "name": "柒牌",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971641,
+  "lat": 24.3505802,
+  "lon": 116.6850714,
+  "tags": {
+    "name": "新一代母婴用品",
+    "shop": "baby_goods"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971642,
+  "lat": 24.3516523,
+  "lon": 116.6812475,
+  "tags": {
+    "name": "好多果园",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971643,
+  "lat": 24.3527817,
+  "lon": 116.6794387,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971644,
+  "lat": 24.3551723,
+  "lon": 116.6799824,
+  "tags": {
+    "brand": "百果园",
+    "brand:en": "Pagoda",
+    "brand:wikidata": "Q111585678",
+    "brand:zh": "百果园",
+    "name": "百果园",
+    "name:en": "Pagoda",
+    "name:zh": "百果园",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971645,
+  "lat": 24.3601611,
+  "lon": 116.6881830,
+  "tags": {
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971646,
+  "lat": 24.3595803,
+  "lon": 116.6865806,
+  "tags": {
+    "brand": "捷安特",
+    "brand:en": "Giant",
+    "brand:wikidata": "Q703557",
+    "brand:zh": "捷安特",
+    "name": "捷安特",
+    "name:en": "Giant",
+    "name:zh": "捷安特",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971647,
+  "lat": 24.3588564,
+  "lon": 116.6859495,
+  "tags": {
+    "beauty": "nails",
+    "name": "如初见美甲工作室",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 11112971648,
+  "lat": 24.3680180,
+  "lon": 116.6945168,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972743,
+  "lat": 24.3610025,
+  "lon": 116.6931741,
+  "tags": {
+    "name": "宝声电器",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972744,
+  "lat": 24.3583146,
+  "lon": 116.6926797,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "林凤小食"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972745,
+  "lat": 24.3559342,
+  "lon": 116.6909937,
+  "tags": {
+    "name": "海棠四季",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972746,
+  "lat": 24.3540872,
+  "lon": 116.6915288,
+  "tags": {
+    "name": "周六福",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972747,
+  "lat": 24.3553837,
+  "lon": 116.6828607,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "华发美食"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972748,
+  "lat": 24.3564796,
+  "lon": 116.6810851,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "隆江猪脚饭"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972749,
+  "lat": 24.3556395,
+  "lon": 116.6798749,
+  "tags": {
+    "amenity": "bank",
+    "name": "广东大埔农村商业银行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972750,
+  "lat": 24.3540659,
+  "lon": 116.6770473,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972751,
+  "lat": 24.3603928,
+  "lon": 116.6880606,
+  "tags": {
+    "name": "嘉盛盐焗食品",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972752,
+  "lat": 24.3606306,
+  "lon": 116.6920837,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "联兴美食"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972753,
+  "lat": 24.3559245,
+  "lon": 116.6913493,
+  "tags": {
+    "name": "顺心鞋业",
+    "shop": "shoes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972754,
+  "lat": 24.3451905,
+  "lon": 116.6893989,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "沙县小吃"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972755,
+  "lat": 24.3693800,
+  "lon": 116.6950494,
+  "tags": {
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972756,
+  "lat": 24.3589706,
+  "lon": 116.6969734,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "日华肉丸店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972758,
+  "lat": 24.3486664,
+  "lon": 116.6991743,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "辉平大药行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972759,
+  "lat": 24.3631202,
+  "lon": 116.6997900,
+  "tags": {
+    "name": "万佳装饰",
+    "shop": "interior_decoration"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972761,
+  "lat": 24.3617438,
+  "lon": 116.7022278,
+  "tags": {
+    "shop": "interior_decoration"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972762,
+  "lat": 24.3551896,
+  "lon": 116.6924354,
+  "tags": {
+    "name": "富安娜",
+    "shop": "bed"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972763,
+  "lat": 24.3527090,
+  "lon": 116.6936801,
+  "tags": {
+    "name": "万川书城",
+    "shop": "stationery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972764,
+  "lat": 24.3535757,
+  "lon": 116.6926353,
+  "tags": {
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112972961,
+  "lat": 24.3564513,
+  "lon": 116.6919522,
+  "tags": {
+    "name": "梅河国际旅行社",
+    "shop": "travel_agency"
+  }
+},
+{
+  "type": "node",
+  "id": 11112976521,
+  "lat": 24.3559564,
+  "lon": 116.6958732,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian"
+  }
+},
+{
+  "type": "node",
+  "id": 11112976522,
+  "lat": 24.3597608,
+  "lon": 116.7025309,
+  "tags": {
+    "name": "亿豪车行",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977513,
+  "lat": 24.3578244,
+  "lon": 116.6918455,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "茶阳新记"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977514,
+  "lat": 24.3560179,
+  "lon": 116.6920177,
+  "tags": {
+    "leisure": "fitness_centre",
+    "name": "天型健身"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977515,
+  "lat": 24.3584578,
+  "lon": 116.6960179,
+  "tags": {
+    "name": "生鲜市集",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977516,
+  "lat": 24.3563568,
+  "lon": 116.6961029,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977517,
+  "lat": 24.3547075,
+  "lon": 116.6977620,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977518,
+  "lat": 24.3518609,
+  "lon": 116.6921566,
+  "tags": {
+    "name": "甜心工坊",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977519,
+  "lat": 24.3536027,
+  "lon": 116.6916137,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977520,
+  "lat": 24.3555953,
+  "lon": 116.6932328,
+  "tags": {
+    "name": "胜意家私",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977521,
+  "lat": 24.3526238,
+  "lon": 116.6798097,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "益德堂药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977524,
+  "lat": 24.3552492,
+  "lon": 116.6786681,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "四季旺私房菜"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977526,
+  "lat": 24.3635582,
+  "lon": 116.6935969,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "辉平大药行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977527,
+  "lat": 24.3523048,
+  "lon": 116.6910942,
+  "tags": {
+    "name": "勿忘我花轩",
+    "shop": "florist"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977528,
+  "lat": 24.3530979,
+  "lon": 116.6919115,
+  "tags": {
+    "name": "新大地通讯",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977529,
+  "lat": 24.3672742,
+  "lon": 116.7020165,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "潮正和牛肉火锅"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977530,
+  "lat": 24.3639686,
+  "lon": 116.6956817,
+  "tags": {
+    "name": "鑫发车行",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977531,
+  "lat": 24.3620718,
+  "lon": 116.6997509,
+  "tags": {
+    "name": "三溪云岽名茶",
+    "shop": "tea"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977532,
+  "lat": 24.3615609,
+  "lon": 116.6979546,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "福友堂药业"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977631,
+  "lat": 24.3547701,
+  "lon": 116.6920840,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977712,
+  "lat": 24.3579468,
+  "lon": 116.6960412,
+  "tags": {
+    "name": "罗记家电商行",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977713,
+  "lat": 24.3562766,
+  "lon": 116.6958587,
+  "tags": {
+    "female:signed": "no",
+    "male:signed": "no",
+    "name": "名发一族",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977714,
+  "lat": 24.3519897,
+  "lon": 116.6925181,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "深华大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977715,
+  "lat": 24.3511916,
+  "lon": 116.6920886,
+  "tags": {
+    "name": "梦之蝶音箱",
+    "shop": "hifi"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977716,
+  "lat": 24.3540153,
+  "lon": 116.6909036,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "饭米粒家常菜"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977717,
+  "lat": 24.3516455,
+  "lon": 116.6852964,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "浪记面店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977718,
+  "lat": 24.3514550,
+  "lon": 116.6810136,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977719,
+  "lat": 24.3597867,
+  "lon": 116.6815514,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "富怡食府"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977720,
+  "lat": 24.3575417,
+  "lon": 116.6798792,
+  "tags": {
+    "name": "埔城汽车美容",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977721,
+  "lat": 24.3590573,
+  "lon": 116.6875395,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "润林大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977722,
+  "lat": 24.3595555,
+  "lon": 116.6864696,
+  "tags": {
+    "amenity": "dentist",
+    "healthcare": "dentist",
+    "name": "康民牙科"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977723,
+  "lat": 24.3621945,
+  "lon": 116.6932229,
+  "tags": {
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977725,
+  "lat": 24.3523442,
+  "lon": 116.6886930,
+  "tags": {
+    "name": "耀记摩托电动车配件",
+    "shop": "motorcycle_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977726,
+  "lat": 24.3529755,
+  "lon": 116.6882175,
+  "tags": {
+    "amenity": "bank",
+    "name": "中国农业发展银行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977727,
+  "lat": 24.3516364,
+  "lon": 116.6813700,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "尚选面店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977728,
+  "lat": 24.3617367,
+  "lon": 116.6992684,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "东城小吃馆"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977729,
+  "lat": 24.3610513,
+  "lon": 116.6947654,
+  "tags": {
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977730,
+  "lat": 24.3589233,
+  "lon": 116.6966222,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "高隆记砂锅牛杂煲"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977731,
+  "lat": 24.3570841,
+  "lon": 116.6926262,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "pizza",
+    "name": "尊宝比萨"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977732,
+  "lat": 24.3560688,
+  "lon": 116.6917658,
+  "tags": {
+    "brand": "班尼路",
+    "brand:en": "Baleno",
+    "brand:wikidata": "Q4850707",
+    "brand:zh": "班尼路",
+    "name": "班尼路",
+    "name:en": "Baleno",
+    "name:zh": "班尼路",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977736,
+  "lat": 24.3614133,
+  "lon": 116.7010125,
+  "tags": {
+    "name": "锦源汽车服务中心",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112977737,
+  "lat": 24.3540546,
+  "lon": 116.6933782,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "宝源堂大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978033,
+  "lat": 24.3543854,
+  "lon": 116.6957006,
+  "tags": {
+    "name": "海泉鹅肉坊",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978163,
+  "lat": 24.3541225,
+  "lon": 116.6918137,
+  "tags": {
+    "name": "中国黄金",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978465,
+  "lat": 24.3523457,
+  "lon": 116.6915457,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "沪上阿姨",
+    "brand:en": "AUNTEA JENNY",
+    "brand:wikidata": "Q108165945",
+    "brand:zh": "沪上阿姨",
+    "cuisine": "bubble_tea",
+    "name": "沪上阿姨",
+    "name:en": "AUNTEA JENNY",
+    "name:zh": "沪上阿姨",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978466,
+  "lat": 24.3516727,
+  "lon": 116.6923891,
+  "tags": {
+    "name": "今顺鲜花",
+    "shop": "florist"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978467,
+  "lat": 24.3498627,
+  "lon": 116.6838646,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978468,
+  "lat": 24.3544165,
+  "lon": 116.6794685,
+  "tags": {
+    "name": "马可波罗瓷砖",
+    "shop": "tiles"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978469,
+  "lat": 24.3542135,
+  "lon": 116.6771062,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978470,
+  "lat": 24.3547667,
+  "lon": 116.6793599,
+  "tags": {
+    "name": "龙城宾馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978471,
+  "lat": 24.3538453,
+  "lon": 116.6786888,
+  "tags": {
+    "name": "婴幼城",
+    "shop": "baby_goods"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978472,
+  "lat": 24.3594642,
+  "lon": 116.6804585,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978473,
+  "lat": 24.3615481,
+  "lon": 116.6840678,
+  "tags": {
+    "name": "腾跃汽车维修美容",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978474,
+  "lat": 24.3605652,
+  "lon": 116.6858263,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "辉平大药行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978475,
+  "lat": 24.3558727,
+  "lon": 116.6836556,
+  "tags": {
+    "name": "鸿鑫窗帘",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978476,
+  "lat": 24.3664488,
+  "lon": 116.6941459,
+  "tags": {
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978477,
+  "lat": 24.3586238,
+  "lon": 116.6890425,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "浪记面店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978478,
+  "lat": 24.3529630,
+  "lon": 116.6919315,
+  "tags": {
+    "name": "万川书城",
+    "shop": "stationery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978479,
+  "lat": 24.3544884,
+  "lon": 116.6822034,
+  "tags": {
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978480,
+  "lat": 24.3564166,
+  "lon": 116.6915156,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978634,
+  "lat": 24.3533067,
+  "lon": 116.6879726,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "侨联酒楼"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978635,
+  "lat": 24.3513497,
+  "lon": 116.6856969,
+  "tags": {
+    "admin_level": "10",
+    "name": "城西社区",
+    "place": "quarter"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978636,
+  "lat": 24.3559261,
+  "lon": 116.6804447,
+  "tags": {
+    "brand": "中国体育彩票",
+    "brand:en": "China Sports Lottery",
+    "brand:wikidata": "Q55696773",
+    "brand:zh": "中国体育彩票",
+    "name": "中国体育彩票",
+    "name:en": "China Sports Lottery",
+    "name:zh": "中国体育彩票",
+    "shop": "lottery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978637,
+  "lat": 24.3542455,
+  "lon": 116.6793211,
+  "tags": {
+    "name": "金鹤五金",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978638,
+  "lat": 24.3573636,
+  "lon": 116.6811489,
+  "tags": {
+    "amenity": "dentist",
+    "healthcare": "dentist",
+    "name": "佳博口腔"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978639,
+  "lat": 24.3579857,
+  "lon": 116.6819474,
+  "tags": {
+    "name": "凯达名茶",
+    "shop": "tea"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978640,
+  "lat": 24.3586842,
+  "lon": 116.6824084,
+  "tags": {
+    "name": "亿果联",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978641,
+  "lat": 24.3611436,
+  "lon": 116.6875078,
+  "tags": {
+    "name": "骏皓汽车",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978642,
+  "lat": 24.3677557,
+  "lon": 116.6946532,
+  "tags": {
+    "name": "爱宝母婴店",
+    "shop": "baby_goods"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978643,
+  "lat": 24.3535884,
+  "lon": 116.6871375,
+  "tags": {
+    "name": "客都发室",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978644,
+  "lat": 24.3525526,
+  "lon": 116.6892549,
+  "tags": {
+    "name": "自然卷造型工作室",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978645,
+  "lat": 24.3517927,
+  "lon": 116.6916486,
+  "tags": {
+    "female:signed": "no",
+    "male:signed": "no",
+    "name": "钧军理发室",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978646,
+  "lat": 24.3636089,
+  "lon": 116.6951923,
+  "tags": {
+    "name": "选记汽车维修部",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978647,
+  "lat": 24.3583467,
+  "lon": 116.6928203,
+  "tags": {
+    "amenity": "bank",
+    "name": "大埔农商银行"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978807,
+  "lat": 24.3582888,
+  "lon": 116.6926354,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "indoor_seating": "yes",
+    "name": "茶阳生记面店",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978808,
+  "lat": 24.3546256,
+  "lon": 116.6919862,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978809,
+  "lat": 24.3569836,
+  "lon": 116.6957859,
+  "tags": {
+    "name": "美康",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978810,
+  "lat": 24.3563723,
+  "lon": 116.6812380,
+  "tags": {
+    "name": "6号hair salon",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978905,
+  "lat": 24.3507912,
+  "lon": 116.6859316,
+  "tags": {
+    "name": "摩托维修",
+    "shop": "motorcycle_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978906,
+  "lat": 24.3562923,
+  "lon": 116.6819739,
+  "tags": {
+    "name": "平记汽车维修",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978907,
+  "lat": 24.3536182,
+  "lon": 116.6788808,
+  "tags": {
+    "amenity": "dentist",
+    "healthcare": "dentist",
+    "name": "汪宏裕牙科"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978908,
+  "lat": 24.3609179,
+  "lon": 116.6845133,
+  "tags": {
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978909,
+  "lat": 24.3605539,
+  "lon": 116.6874139,
+  "tags": {
+    "amenity": "car_rental",
+    "name": "客都租车"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978910,
+  "lat": 24.3641818,
+  "lon": 116.6936662,
+  "tags": {
+    "name": "辉达摩托维修",
+    "shop": "motorcycle_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978911,
+  "lat": 24.3616573,
+  "lon": 116.6931934,
+  "tags": {
+    "name": "绘影照相店",
+    "shop": "photo"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978912,
+  "lat": 24.3593424,
+  "lon": 116.6903207,
+  "tags": {
+    "brand": "中国福利彩票",
+    "brand:en": "China Welfare Lottery",
+    "brand:wikidata": "Q9384250",
+    "brand:zh": "中国福利彩票",
+    "name": "中国福利彩票",
+    "name:en": "China Welfare Lottery",
+    "name:zh": "中国福利彩票",
+    "shop": "lottery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978913,
+  "lat": 24.3586047,
+  "lon": 116.6895501,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978914,
+  "lat": 24.3527567,
+  "lon": 116.6919580,
+  "tags": {
+    "name": "兴达电器",
+    "shop": "hifi"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978915,
+  "lat": 24.3528249,
+  "lon": 116.6916869,
+  "tags": {
+    "name": "童兴",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978916,
+  "lat": 24.3523159,
+  "lon": 116.6913616,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "益禾堂",
+    "brand:en": "YH.Tang",
+    "brand:wikidata": "Q110287075",
+    "brand:zh": "益禾堂",
+    "cuisine": "bubble_tea",
+    "name": "益禾堂",
+    "name:en": "YH.Tang",
+    "name:zh": "益禾堂",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978917,
+  "lat": 24.3540423,
+  "lon": 116.6928178,
+  "tags": {
+    "name": "金朋烧腊盐焗",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978918,
+  "lat": 24.3547908,
+  "lon": 116.6924669,
+  "tags": {
+    "name": "精功眼镜",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11112978919,
+  "lat": 24.3530204,
+  "lon": 116.6923734,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "明康大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979005,
+  "lat": 24.3514756,
+  "lon": 116.6819062,
+  "tags": {
+    "name": "德记布艺",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979006,
+  "lat": 24.3539836,
+  "lon": 116.6787938,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "华娇药店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979007,
+  "lat": 24.3588258,
+  "lon": 116.6821900,
+  "tags": {
+    "name": "派雅门窗",
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979008,
+  "lat": 24.3542040,
+  "lon": 116.6882788,
+  "tags": {
+    "name": "未来万家五金机电",
+    "shop": "electrical"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979009,
+  "lat": 24.3503196,
+  "lon": 116.6844112,
+  "tags": {
+    "name": "洪兴旅店",
+    "tourism": "hostel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979010,
+  "lat": 24.3518614,
+  "lon": 116.6813570,
+  "tags": {
+    "name": "自家人手机店",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979011,
+  "lat": 24.3668963,
+  "lon": 116.7025158,
+  "tags": {
+    "name": "快鱼",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979012,
+  "lat": 24.3628142,
+  "lon": 116.6954381,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979013,
+  "lat": 24.3590418,
+  "lon": 116.6974295,
+  "tags": {
+    "name": "龙兴商务宾馆",
+    "phone": "5182998",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979014,
+  "lat": 24.3585201,
+  "lon": 116.6985328,
+  "tags": {
+    "brand": "美宜佳",
+    "brand:en": "Meiyijia",
+    "brand:wikidata": "Q97300244",
+    "brand:zh": "美宜佳",
+    "name": "美宜佳",
+    "name:en": "Meiyijia",
+    "name:zh": "美宜佳",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979015,
+  "lat": 24.3620046,
+  "lon": 116.7001628,
+  "tags": {
+    "name": "味美鲜卤腊坊",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979016,
+  "lat": 24.3620443,
+  "lon": 116.7025763,
+  "tags": {
+    "amenity": "restaurant",
+    "indoor_seating": "yes",
+    "name": "森林美食",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979205,
+  "lat": 24.3542864,
+  "lon": 116.6803970,
+  "tags": {
+    "amenity": "karaoke_box",
+    "name": "天籁音乐吧"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979206,
+  "lat": 24.3571520,
+  "lon": 116.6810427,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "健和大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979208,
+  "lat": 24.3605769,
+  "lon": 116.6865309,
+  "tags": {
+    "name": "窗帘",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979209,
+  "lat": 24.3607319,
+  "lon": 116.6880884,
+  "tags": {
+    "name": "中心大街京果",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979211,
+  "lat": 24.3525683,
+  "lon": 116.6890818,
+  "tags": {
+    "name": "绍记锁业",
+    "shop": "locksmith"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979212,
+  "lat": 24.3523273,
+  "lon": 116.6912038,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "古茗",
+    "brand:en": "Goodme",
+    "brand:wikidata": "Q110107919",
+    "brand:zh": "古茗",
+    "cuisine": "ice_cream;bubble_tea",
+    "name": "古茗",
+    "name:en": "Goodme",
+    "name:zh": "古茗",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979213,
+  "lat": 24.3650291,
+  "lon": 116.6914245,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "幸福面店"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979214,
+  "lat": 24.3691075,
+  "lon": 116.6949179,
+  "tags": {
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979215,
+  "lat": 24.3671125,
+  "lon": 116.7024116,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979219,
+  "lat": 24.3624525,
+  "lon": 116.7001414,
+  "tags": {
+    "name": "微潮派沙龙",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979220,
+  "lat": 24.3614415,
+  "lon": 116.7019535,
+  "tags": {
+    "shop": "interior_decoration"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979221,
+  "lat": 24.3536882,
+  "lon": 116.6923180,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "仁和堂大药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979222,
+  "lat": 24.3545246,
+  "lon": 116.6922272,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979305,
+  "lat": 24.3584381,
+  "lon": 116.6819201,
+  "tags": {
+    "name": "好好鲜生",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979306,
+  "lat": 24.3577728,
+  "lon": 116.6795435,
+  "tags": {
+    "name": "品味家具城",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979307,
+  "lat": 24.3589859,
+  "lon": 116.6876852,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "福生堂药房"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979308,
+  "lat": 24.3641222,
+  "lon": 116.6930108,
+  "tags": {
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979309,
+  "lat": 24.3606066,
+  "lon": 116.6925867,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "客潮美食"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979310,
+  "lat": 24.3524028,
+  "lon": 116.6895044,
+  "tags": {
+    "name": "创缘西饼屋",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979312,
+  "lat": 24.3533044,
+  "lon": 116.6916416,
+  "tags": {
+    "name": "嘉福蛋糕",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979313,
+  "lat": 24.3524963,
+  "lon": 116.6799791,
+  "tags": {
+    "name": "花芯文具",
+    "shop": "stationery"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979314,
+  "lat": 24.3542133,
+  "lon": 116.6825066,
+  "tags": {
+    "shop": "tiles"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979315,
+  "lat": 24.3659903,
+  "lon": 116.6906905,
+  "tags": {
+    "shop": "tiles"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979316,
+  "lat": 24.3665190,
+  "lon": 116.7023435,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "name": "大嘴烧烤"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979317,
+  "lat": 24.3620194,
+  "lon": 116.6974458,
+  "tags": {
+    "name": "果然多",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979318,
+  "lat": 24.3606873,
+  "lon": 116.6998126,
+  "tags": {
+    "name": "香港金龙门",
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979319,
+  "lat": 24.3613913,
+  "lon": 116.6974081,
+  "tags": {
+    "name": "爱家窗帘",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979320,
+  "lat": 24.3627039,
+  "lon": 116.7024005,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "永兴美食园",
+    "phone": "+86 152 1970 3238"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979505,
+  "lat": 24.3602481,
+  "lon": 116.6920384,
+  "tags": {
+    "name": "京仙鹅肉店",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979506,
+  "lat": 24.3593070,
+  "lon": 116.6902330,
+  "tags": {
+    "name": "科汇电脑",
+    "shop": "computer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979507,
+  "lat": 24.3542500,
+  "lon": 116.6874055,
+  "tags": {
+    "name": "洲记口福烧腊",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979508,
+  "lat": 24.3520149,
+  "lon": 116.6919959,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979509,
+  "lat": 24.3520381,
+  "lon": 116.6925201,
+  "tags": {
+    "name": "广进五金",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979510,
+  "lat": 24.3518473,
+  "lon": 116.6814096,
+  "tags": {
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979511,
+  "lat": 24.3622301,
+  "lon": 116.6988570,
+  "tags": {
+    "amenity": "post_office",
+    "brand": "菜鸟驿站",
+    "brand:en": "CAI NIAO",
+    "brand:wikidata": "Q16947973",
+    "brand:zh": "菜鸟驿站",
+    "name": "菜鸟驿站",
+    "name:en": "CAI NIAO",
+    "name:zh": "菜鸟驿站"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979512,
+  "lat": 24.3619141,
+  "lon": 116.6988228,
+  "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "康泽药业"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979770,
+  "lat": 24.3524122,
+  "lon": 116.6881009,
+  "tags": {
+    "name": "海量卤腊店",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979771,
+  "lat": 24.3515706,
+  "lon": 116.6913713,
+  "tags": {
+    "amenity": "fast_food",
+    "name": "芒小将"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979772,
+  "lat": 24.3510230,
+  "lon": 116.6849485,
+  "tags": {
+    "name": "东方红照相馆",
+    "shop": "photo"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979773,
+  "lat": 24.3651782,
+  "lon": 116.6997603,
+  "tags": {
+    "name": "午阳汽车维修",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979774,
+  "lat": 24.3572673,
+  "lon": 116.6928631,
+  "tags": {
+    "name": "母婴园",
+    "shop": "baby_goods"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979775,
+  "lat": 24.3552611,
+  "lon": 116.6916379,
+  "tags": {
+    "brand": "安踏",
+    "brand:en": "Anta",
+    "brand:wikidata": "Q4653060",
+    "brand:zh": "安踏",
+    "name": "安踏",
+    "name:en": "Anta",
+    "name:zh": "安踏",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979776,
+  "lat": 24.3614419,
+  "lon": 116.6977113,
+  "tags": {
+    "name": "天福",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979777,
+  "lat": 24.3586984,
+  "lon": 116.6966812,
+  "tags": {
+    "name": "行记水果批发",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979778,
+  "lat": 24.3617335,
+  "lon": 116.7016602,
+  "tags": {
+    "name": "有家宠物店",
+    "shop": "pet"
+  }
+},
+{
+  "type": "node",
+  "id": 11112979779,
+  "lat": 24.3629646,
+  "lon": 116.7022733,
+  "tags": {
+    "name": "屏翠山茶业",
+    "shop": "tea"
+  }
+},
+{
+  "type": "node",
+  "id": 11112980163,
+  "lat": 24.3613870,
+  "lon": 116.6997954,
+  "tags": {
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112980164,
+  "lat": 24.3544852,
+  "lon": 116.6915065,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112980165,
+  "lat": 24.3518755,
+  "lon": 116.6910496,
+  "tags": {
+    "shop": "florist"
+  }
+},
+{
+  "type": "node",
+  "id": 11112981966,
+  "lat": 24.3640267,
+  "lon": 116.6917948,
+  "tags": {
+    "name": "蔚景雅致酒店",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11112981967,
+  "lat": 24.3678121,
+  "lon": 116.7015958,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 11112981968,
+  "lat": 24.3614377,
+  "lon": 116.7008773,
+  "tags": {
+    "name": "生成生活超市",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11112982020,
+  "lat": 24.3616579,
+  "lon": 116.6991434,
+  "tags": {
+    "name": "点缀",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112982021,
+  "lat": 24.3613219,
+  "lon": 116.6952311,
+  "tags": {
+    "name": "嘉诚鹅肉店",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112982843,
+  "lat": 24.3618555,
+  "lon": 116.6989267,
+  "tags": {
+    "name": "潮剪",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112982844,
+  "lat": 24.3541948,
+  "lon": 116.6931474,
+  "tags": {
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112982933,
+  "lat": 24.3550553,
+  "lon": 116.6958257,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "美美小食"
+  }
+},
+{
+  "type": "node",
+  "id": 11112982934,
+  "lat": 24.3601505,
+  "lon": 116.7026079,
+  "tags": {
+    "name": "鼎盛车行",
+    "second_hand": "only",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 11112983254,
+  "lat": 24.3532237,
+  "lon": 116.6926469,
+  "tags": {
+    "name": "婴幼城",
+    "shop": "baby_goods"
+  }
+},
+{
+  "type": "node",
+  "id": 11112983255,
+  "lat": 24.3579259,
+  "lon": 116.6925226,
+  "tags": {
+    "name": "玉姐港式烧腊",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 11112983256,
+  "lat": 24.3527300,
+  "lon": 116.6916918,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112984320,
+  "lat": 24.3617476,
+  "lon": 116.7013208,
+  "tags": {
+    "amenity": "veterinary"
+  }
+},
+{
+  "type": "node",
+  "id": 11112984321,
+  "lat": 24.3543737,
+  "lon": 116.6925061,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "肉丸"
+  }
+},
+{
+  "type": "node",
+  "id": 11112984322,
+  "lat": 24.3558128,
+  "lon": 116.6913611,
+  "tags": {
+    "brand": "361度",
+    "brand:en": "361˚",
+    "brand:wikidata": "Q10846067",
+    "brand:zh": "361度",
+    "name": "361度",
+    "name:en": "361˚",
+    "name:zh": "361度",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11112986272,
+  "lat": 24.3581684,
+  "lon": 116.6925034,
+  "tags": {
+    "name": "金泰五金交电",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11112986392,
+  "lat": 24.3565687,
+  "lon": 116.6808693,
+  "tags": {
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11112986418,
+  "lat": 24.3563781,
+  "lon": 116.6807472,
+  "tags": {
+    "shop": "motorcycle"
+  }
+},
+{
+  "type": "node",
+  "id": 11112986419,
+  "lat": 24.3536975,
+  "lon": 116.6915993,
+  "tags": {
+    "name": "日达电器",
+    "shop": "electronics"
+  }
+},
+{
+  "type": "node",
+  "id": 11112986420,
+  "lat": 24.3545582,
+  "lon": 116.6956994,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "name": "德师傅烧烤吧"
+  }
+},
+{
+  "type": "node",
+  "id": 11281736009,
+  "lat": 24.3627803,
+  "lon": 116.6951716,
+  "tags": {
+    "name": "盛祥批发",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11281736010,
+  "lat": 24.3538884,
+  "lon": 116.6891169,
+  "tags": {
+    "name": "明瑞珠宝",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "node",
+  "id": 11281736011,
+  "lat": 24.3582271,
+  "lon": 116.6848784,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "name": "长安牛肉火锅"
+  }
+},
+{
+  "type": "node",
+  "id": 11281772299,
+  "lat": 24.3536608,
+  "lon": 116.6891525,
+  "tags": {
+    "name": "新大新男装",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11281772300,
+  "lat": 24.3550314,
+  "lon": 116.6914633,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11281787691,
+  "lat": 24.3635948,
+  "lon": 116.6957492,
+  "tags": {
+    "name": "顺意窗帘布艺",
+    "phone": "+86 135 4917 5111",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11281787692,
+  "lat": 24.3538162,
+  "lon": 116.6911557,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11281791097,
+  "lat": 24.3633189,
+  "lon": 116.6954807,
+  "tags": {
+    "name": "明珠五金",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11281791098,
+  "lat": 24.3596772,
+  "lon": 116.6859398,
+  "tags": {
+    "name": "孙鲜生",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11281809683,
+  "lat": 24.3603601,
+  "lon": 116.6922496,
+  "tags": {
+    "name": "成记商店",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11281817422,
+  "lat": 24.3634894,
+  "lon": 116.6970576,
+  "tags": {
+    "name": "爱尚家布艺",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11281817423,
+  "lat": 24.3537174,
+  "lon": 116.6901260,
+  "tags": {
+    "name": "新飞腾",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11281827573,
+  "lat": 24.3638695,
+  "lon": 116.6989268,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "name": "芮琪面店"
+  }
+},
+{
+  "type": "node",
+  "id": 11281830591,
+  "lat": 24.3540299,
+  "lon": 116.6911802,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11281831372,
+  "lat": 24.3635230,
+  "lon": 116.6965119,
+  "tags": {
+    "name": "三正五金",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11281831373,
+  "lat": 24.3536711,
+  "lon": 116.6892062,
+  "tags": {
+    "name": "先锋电讯",
+    "shop": "mobile_phone"
+  }
+},
+{
+  "type": "node",
+  "id": 11281832089,
+  "lat": 24.3536950,
+  "lon": 116.6895826,
+  "tags": {
+    "name": "劲霸男装",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11281835374,
+  "lat": 24.3537133,
+  "lon": 116.6899501,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11281835375,
+  "lat": 24.3604690,
+  "lon": 116.6924068,
+  "tags": {
+    "name": "洋溢文体",
+    "shop": "stationery"
+  }
+},
+{
+  "type": "node",
+  "id": 11281835985,
+  "lat": 24.3540147,
+  "lon": 116.6909636,
+  "tags": {
+    "air_conditioning": "yes",
+    "name": "景盛商务宾馆",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 11281836493,
+  "lat": 24.3636930,
+  "lon": 116.6984194,
+  "tags": {
+    "name": "宝龙综合商店",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11281836494,
+  "lat": 24.3540240,
+  "lon": 116.6910502,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11281838692,
+  "lat": 24.3549124,
+  "lon": 116.6914745,
+  "tags": {
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11281838970,
+  "lat": 24.3635934,
+  "lon": 116.6962495,
+  "tags": {
+    "name": "福裕门窗",
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11281838971,
+  "lat": 24.3585838,
+  "lon": 116.6857744,
+  "tags": {
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 11281839087,
+  "lat": 24.3638784,
+  "lon": 116.6969365,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "chinese",
+    "indoor_seating": "yes",
+    "name": "印象家园",
+    "outdoor_seating": "no",
+    "phone": "+86 186 6667 0822"
+  }
+},
+{
+  "type": "node",
+  "id": 11281840284,
+  "lat": 24.3581955,
+  "lon": 116.6854772,
+  "tags": {
+    "name": "顺风家私",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11281840769,
+  "lat": 24.3579688,
+  "lon": 116.6853225,
+  "tags": {
+    "name": "三丰汽车维修部",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11306273009,
+  "lat": 24.3525827,
+  "lon": 116.6940946,
+  "tags": {
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11306289870,
+  "lat": 24.3572751,
+  "lon": 116.6958074,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "心悦餐厅"
+  }
+},
+{
+  "type": "node",
+  "id": 11516870766,
+  "lat": 24.3687755,
+  "lon": 116.6953129,
+  "tags": {
+    "name": "新大新家居",
+    "shop": "furniture"
+  }
+},
+{
+  "type": "node",
+  "id": 11516922795,
+  "lat": 24.3616707,
+  "lon": 116.6933932,
+  "tags": {
+    "indoor_seating": "yes",
+    "name": "取意甜心",
+    "outdoor_seating": "no",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11516925451,
+  "lat": 24.3632688,
+  "lon": 116.6968305,
+  "tags": {
+    "name": "成记商店",
+    "shop": "general"
+  }
+},
+{
+  "type": "node",
+  "id": 11516931411,
+  "lat": 24.3694225,
+  "lon": 116.7002927,
+  "tags": {
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "岭下第二卫生站"
+  }
+},
+{
+  "type": "node",
+  "id": 11516940388,
+  "lat": 24.3684083,
+  "lon": 116.6970168,
+  "tags": {
+    "name": "双鑫门业",
+    "shop": "doors"
+  }
+},
+{
+  "type": "node",
+  "id": 11516940599,
+  "lat": 24.3436844,
+  "lon": 116.6762812,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "node",
+  "id": 11516942110,
+  "lat": 24.3637137,
+  "lon": 116.6947808,
+  "tags": {
+    "name": "联华发室",
+    "shop": "hairdresser"
+  }
+},
+{
+  "type": "node",
+  "id": 11516942425,
+  "lat": 24.3638568,
+  "lon": 116.6988537,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "noodle",
+    "indoor_seating": "yes",
+    "name": "添福面店",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11516948113,
+  "lat": 24.3522791,
+  "lon": 116.6795143,
+  "tags": {
+    "amenity": "parking_space"
+  }
+},
+{
+  "type": "node",
+  "id": 11516950686,
+  "lat": 24.3594303,
+  "lon": 116.6982283,
+  "tags": {
+    "name": "江兴生鲜商场",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 11516972389,
+  "lat": 24.3530598,
+  "lon": 116.6782096,
+  "tags": {
+    "amenity": "parking"
+  }
+},
+{
+  "type": "node",
+  "id": 11516978474,
+  "lat": 24.3523793,
+  "lon": 116.6795674,
+  "tags": {
+    "amenity": "parking_space"
+  }
+},
+{
+  "type": "node",
+  "id": 11534605661,
+  "lat": 24.3588934,
+  "lon": 116.6980379,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "barbecue",
+    "name": "新疆兄弟烧烤"
+  }
+},
+{
+  "type": "node",
+  "id": 11570572267,
+  "lat": 24.3667604,
+  "lon": 116.6933395,
+  "tags": {
+    "amenity": "parking_space"
+  }
+},
+{
+  "type": "node",
+  "id": 11570572268,
+  "lat": 24.3666185,
+  "lon": 116.6933451,
+  "tags": {
+    "amenity": "parking_space"
+  }
+},
+{
+  "type": "node",
+  "id": 11570580969,
+  "lat": 24.3642064,
+  "lon": 116.6908541,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "node",
+  "id": 11570580977,
+  "lat": 24.3628718,
+  "lon": 116.6988480,
+  "tags": {
+    "amenity": "dentist",
+    "healthcare": "dentist"
+  }
+},
+{
+  "type": "node",
+  "id": 11570581032,
+  "lat": 24.3518170,
+  "lon": 116.6867798,
+  "tags": {
+    "amenity": "parking_space"
+  }
+},
+{
+  "type": "node",
+  "id": 11570581033,
+  "lat": 24.3518997,
+  "lon": 116.6867850,
+  "tags": {
+    "amenity": "parking_space"
+  }
+},
+{
+  "type": "node",
+  "id": 11570581036,
+  "lat": 24.3561846,
+  "lon": 116.6899125,
+  "tags": {
+    "name": "喜多多超市",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 11705780946,
+  "lat": 24.3403279,
+  "lon": 116.6899592,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "node",
+  "id": 11708165423,
+  "lat": 24.3651574,
+  "lon": 116.7085464,
+  "tags": {
+    "name": "陂头坑",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11708217694,
+  "lat": 24.3641555,
+  "lon": 116.6921726,
+  "tags": {
+    "amenity": "atm",
+    "brand": "中国建设银行",
+    "brand:en": "China Construction Bank",
+    "brand:wikidata": "Q26299",
+    "brand:zh": "中国建设银行",
+    "name:en": "China Construction Bank",
+    "name:zh": "中国建设银行",
+    "operator": "中国建设银行",
+    "operator:wikidata": "Q26299"
+  }
+},
+{
+  "type": "node",
+  "id": 11708226172,
+  "lat": 24.3366699,
+  "lon": 116.6923768,
+  "tags": {
+    "amenity": "driver_training"
+  }
+},
+{
+  "type": "node",
+  "id": 11708226297,
+  "lat": 24.3653524,
+  "lon": 116.6911148,
+  "tags": {
+    "amenity": "pharmacy",
+    "brand": "大参林",
+    "brand:en": "dashenlin",
+    "brand:wikidata": "Q106239645",
+    "brand:zh": "大参林",
+    "healthcare": "pharmacy",
+    "name": "大参林",
+    "name:en": "dashenlin",
+    "name:zh": "大参林"
+  }
+},
+{
+  "type": "node",
+  "id": 11708226969,
+  "lat": 24.3403388,
+  "lon": 116.6899457,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "node",
+  "id": 12057806365,
+  "lat": 24.3751436,
+  "lon": 116.6924882,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "node",
+  "id": 12057860068,
+  "lat": 24.3661856,
+  "lon": 116.6830841,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "badminton"
+  }
+},
+{
+  "type": "node",
+  "id": 12057860222,
+  "lat": 24.3750012,
+  "lon": 116.6923100,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "badminton"
+  }
+},
+{
+  "type": "node",
+  "id": 12057860353,
+  "lat": 24.3662423,
+  "lon": 116.6831619,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "badminton"
+  }
+},
+{
+  "type": "node",
+  "id": 12057860357,
+  "lat": 24.3695357,
+  "lon": 116.6853448,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "soccer"
+  }
+},
+{
+  "type": "node",
+  "id": 12057860360,
+  "lat": 24.3664533,
+  "lon": 116.6832119,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "node",
+  "id": 12057860372,
+  "lat": 24.3663678,
+  "lon": 116.6828648,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "badminton"
+  }
+},
+{
+  "type": "node",
+  "id": 12057860483,
+  "lat": 24.3712143,
+  "lon": 116.6833432,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "soccer"
+  }
+},
+{
+  "type": "node",
+  "id": 12057860568,
+  "lat": 24.3694044,
+  "lon": 116.6851641,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "node",
+  "id": 12057860596,
+  "lat": 24.3664494,
+  "lon": 116.6829507,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "badminton"
+  }
+},
+{
+  "type": "node",
+  "id": 12063965800,
+  "lat": 24.3618093,
+  "lon": 116.6964600,
+  "tags": {
+    "amenity": "atm",
+    "brand": "中国工商银行",
+    "brand:en": "Industrial and Commercial Bank of China",
+    "brand:wikidata": "Q26463",
+    "brand:zh": "中国工商银行",
+    "cash_in": "yes",
+    "name:en": "Industrial and Commercial Bank of China",
+    "name:zh": "中国工商银行",
+    "operator": "中国工商银行",
+    "operator:wikidata": "Q26463"
+  }
+},
+{
+  "type": "node",
+  "id": 13180640500,
+  "lat": 24.3737168,
+  "lon": 116.6979956,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "node",
+  "id": 13180643812,
+  "lat": 24.3450638,
+  "lon": 116.6739125,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+}
+
+  ]
+}
