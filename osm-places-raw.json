@@ -1,0 +1,357 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-26T15:54:16Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 610101834,
+  "center": {
+    "lat": 24.3507059,
+    "lon": 116.6794835
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "大埔县田家炳实验中学"
+  }
+},
+{
+  "type": "way",
+  "id": 610101837,
+  "center": {
+    "lat": 24.3525271,
+    "lon": 116.6783557
+  },
+  "tags": {
+    "area": "yes",
+    "name": "泰安楼",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 990091136,
+  "center": {
+    "lat": 24.3514237,
+    "lon": 116.6890600
+  },
+  "tags": {
+    "addr:housenumber": "112",
+    "addr:street": "工农路",
+    "amenity": "school",
+    "grades": "10-12",
+    "name": "虎山中学",
+    "name:en": "Hushan Senior High School",
+    "religion": "none",
+    "wikidata": "Q10934571",
+    "wikipedia": "zh:大埔县虎山中学"
+  }
+},
+{
+  "type": "way",
+  "id": 999512244,
+  "center": {
+    "lat": 24.3501491,
+    "lon": 116.6903885
+  },
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "大埔县政府"
+  }
+},
+{
+  "type": "way",
+  "id": 999512284,
+  "center": {
+    "lat": 24.3490964,
+    "lon": 116.6847102
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "大埔县人民医院"
+  }
+},
+{
+  "type": "way",
+  "id": 999512285,
+  "center": {
+    "lat": 24.3471383,
+    "lon": 116.6833103
+  },
+  "tags": {
+    "amenity": "school",
+    "grades": "1-6",
+    "name": "张云栽实验小学",
+    "religion": "none"
+  }
+},
+{
+  "type": "way",
+  "id": 1075280705,
+  "center": {
+    "lat": 24.3655306,
+    "lon": 116.6926026
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "家炳第一中学",
+    "religion": "none"
+  }
+},
+{
+  "type": "way",
+  "id": 1075280721,
+  "center": {
+    "lat": 24.3578757,
+    "lon": 116.6808233
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "大埔县妇幼保健院"
+  }
+},
+{
+  "type": "way",
+  "id": 1075280723,
+  "center": {
+    "lat": 24.3657016,
+    "lon": 116.6827172
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "大埔县中医医院"
+  }
+},
+{
+  "type": "way",
+  "id": 1075280728,
+  "center": {
+    "lat": 24.3547396,
+    "lon": 116.7011301
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "华侨中学"
+  }
+},
+{
+  "type": "way",
+  "id": 1075280729,
+  "center": {
+    "lat": 24.3523972,
+    "lon": 116.6988869
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "田家炳高级职业学校"
+  }
+},
+{
+  "type": "way",
+  "id": 1075280730,
+  "center": {
+    "lat": 24.3501679,
+    "lon": 116.6987908
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "大埔第二小学"
+  }
+},
+{
+  "type": "way",
+  "id": 1075280748,
+  "center": {
+    "lat": 24.3581832,
+    "lon": 116.6879475
+  },
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "湖寮镇政府"
+  }
+},
+{
+  "type": "way",
+  "id": 1075280760,
+  "center": {
+    "lat": 24.3579439,
+    "lon": 116.6865623
+  },
+  "tags": {
+    "amenity": "school",
+    "grades": "1-6",
+    "name": "大埔小学",
+    "religion": "none"
+  }
+},
+{
+  "type": "way",
+  "id": 1075463161,
+  "center": {
+    "lat": 24.3676435,
+    "lon": 116.6955021
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "湖山中学",
+    "religion": "none"
+  }
+},
+{
+  "type": "way",
+  "id": 1075463168,
+  "center": {
+    "lat": 24.3457311,
+    "lon": 116.6978007
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "大埔县特殊教育学校",
+    "religion": "none"
+  }
+},
+{
+  "type": "way",
+  "id": 1075463182,
+  "center": {
+    "lat": 24.3532968,
+    "lon": 116.6910425
+  },
+  "tags": {
+    "amenity": "school",
+    "grades": "1-6",
+    "name": "田家炳小学",
+    "religion": "none"
+  }
+},
+{
+  "type": "way",
+  "id": 1075579934,
+  "center": {
+    "lat": 24.3482461,
+    "lon": 116.6959972
+  },
+  "tags": {
+    "amenity": "marketplace",
+    "name": "黎家坪农贸市场"
+  }
+},
+{
+  "type": "way",
+  "id": 1075579939,
+  "center": {
+    "lat": 24.3566499,
+    "lon": 116.7030357
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "大埔县阳光康复医院"
+  }
+},
+{
+  "type": "way",
+  "id": 1075584455,
+  "center": {
+    "lat": 24.3498553,
+    "lon": 116.6881629
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "虎山中学永生园"
+  }
+},
+{
+  "type": "way",
+  "id": 1085976716,
+  "center": {
+    "lat": 24.3610924,
+    "lon": 116.6986553
+  },
+  "tags": {
+    "amenity": "school",
+    "grades": "1-6",
+    "name": "城东实验学校",
+    "religion": "none"
+  }
+},
+{
+  "type": "way",
+  "id": 1091980038,
+  "center": {
+    "lat": 24.3703245,
+    "lon": 116.6838408
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "西岭实验学校",
+    "operator:type": "public"
+  }
+},
+{
+  "type": "way",
+  "id": 1094588881,
+  "center": {
+    "lat": 24.3687832,
+    "lon": 116.6876625
+  },
+  "tags": {
+    "amenity": "school",
+    "grades": "1-6",
+    "name": "湖寮镇中心小学",
+    "religion": "none"
+  }
+},
+{
+  "type": "way",
+  "id": 1108122643,
+  "center": {
+    "lat": 24.3404156,
+    "lon": 116.6896134
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "name": "大埔县消防大队"
+  }
+},
+{
+  "type": "way",
+  "id": 1108122657,
+  "center": {
+    "lat": 24.3610092,
+    "lon": 116.6822225
+  },
+  "tags": {
+    "amenity": "bus_station",
+    "bus": "yes",
+    "name": "大埔县汽车客运站",
+    "name:en": "Dabu Bus Station",
+    "public_transport": "station"
+  }
+},
+{
+  "type": "way",
+  "id": 1151628937,
+  "center": {
+    "lat": 24.3614076,
+    "lon": 116.6911592
+  },
+  "tags": {
+    "amenity": "marketplace",
+    "name": "财政路临时市场"
+  }
+}
+
+  ]
+}
